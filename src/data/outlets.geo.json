@@ -1,0 +1,313 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ميناء الدقم التجاري",
+        "code": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.709728530020335,
+          19.676967399755434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ميناء خصب التجاري",
+        "code": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2494962500067,
+          26.20715551995042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ميناء صحار الصناعي",
+        "code": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.62696691951301,
+          24.495133239548768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ميناء صلالة التجاري",
+        "code": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.02883700012888,
+          16.961347179805717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ميناء شناص التجاري",
+        "code": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.47015972980191,
+          24.745866140077815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ميناء السلطان قابوس",
+        "code": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.56470519970534,
+          23.630730793796637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مطار مسقط الدولي",
+        "code": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.29088239187507,
+          23.58865573044436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مطار صلالة",
+        "code": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.10676709028286,
+          17.03856585131959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "بريد عمان - صلالة المركزي",
+        "code": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.091423916120725,
+          17.01936549258382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "بريد عمان - الحمرية",
+        "code": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.5414340776749,
+          23.588324441803906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مركز شرطة المزيونة",
+        "code": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.629483880173915,
+          17.839244919568397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مركز شرطة تيبات",
+        "code": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.08767311019306,
+          26.052068319785825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مركز شرطة البريمي",
+        "code": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.77383667017289,
+          24.245799129869344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مركز شرطة خطمة ملاحة",
+        "code": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.36560606989488,
+          24.974870939588765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مركز شرطة الوجاجة",
+        "code": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.296307169675224,
+          24.784809979945436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مركز شرطة وادي الجزي",
+        "code": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.162723943450494,
+          24.223841894568213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مطار مسقط قسم الشحن",
+        "code": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.285179209566095,
+          23.587645576205247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "البريد المركزي",
+        "code": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.292390880003815,
+          23.584093516685474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "مركز شرطة حفيت",
+        "code": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.84671466081508,
+          24.013947577583057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ميناء دبا",
+        "code": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.43024620683107,
+          25.93715804723401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ميناء صور",
+        "code": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.52892149123,
+          22.577090191343157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "الادارة العامه للجمارك",
+        "code": 22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.28919884470882,
+          23.58186901240335
+        ]
+      }
+    }
+  ]
+}

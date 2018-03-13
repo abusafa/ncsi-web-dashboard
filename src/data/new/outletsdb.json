@@ -1,0 +1,302 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "POE_CODE": 71,
+        "LOCATION": [
+          56.5793532,
+          24.488741
+        ],
+        "ARB_DESC": "ميناء صحار",
+        "ENG_DESC": "SOHAR ",
+        "HS_CHAP": 27,
+        "PROD_ARB_DESC": "وقود معدني ، زيوت معدنية ومنتجات تقطيرها ؛ مواد قارية ؛ شموع معدنية",
+        "PROD_ENG_DESC": "Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",
+        "VALUE": 667084031,
+        "WIEGHT": 1742393625,
+        "YEAR": 2013,
+        "DIRECTION": "out",
+        "TYPE": "sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.5793532,
+          24.488741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POE_CODE": 21,
+        "LOCATION": [
+          53.9891795,
+          6.9350338
+        ],
+        "ARB_DESC": "ميناء صلالة",
+        "ENG_DESC": "MINA SALALAH ",
+        "HS_CHAP": 39,
+        "PROD_ARB_DESC": "لدائـــــــــــــــــن ومصنوعاتهــــــــــــــــــــا",
+        "PROD_ENG_DESC": "Plastics and articles thereof",
+        "VALUE": 138857595,
+        "WIEGHT": 200582194,
+        "YEAR": 2013,
+        "DIRECTION": "out",
+        "TYPE": "sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.010771,
+          16.936447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POE_CODE": 36,
+        "LOCATION": [
+          56.2262945,
+          24.7964112
+        ],
+        "ARB_DESC": "الوجاجه ",
+        "ENG_DESC": "AL.WAJAJAH ",
+        "HS_CHAP": 11,
+        "PROD_ARB_DESC": "منتجات مطاحن ؛ شعير ناشط (مالت) ؛ نشاء حبوب أو جذور أو درنات ؛ إينولين ؛ دابوق القمح (جلوتين)",
+        "PROD_ENG_DESC": "Products of the milling industry; malt; starches; inulin; wheat gluten",
+        "VALUE": 55648175,
+        "WIEGHT": 42100591,
+        "YEAR": 2013,
+        "DIRECTION": "out",
+        "TYPE": "land"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2262945,
+          24.7964112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POE_CODE": 40,
+        "LOCATION": [
+          56.1623049,
+          24.2215667
+        ],
+        "ARB_DESC": "وادي الجزي  ",
+        "ENG_DESC": "WADI JIZZI ",
+        "HS_CHAP": 85,
+        "PROD_ARB_DESC": "آلات وأجهزة ومعدات كهربائية وأجزاؤها ؛ أجهزة تسجيل وإذاعة الصوت ، وأجهزة تسجيل وإذاعة الصوت والصورة في الإذاعة المرئية ( تلفزيون) وأجزاء ولوازم هذه الأجهزة",
+        "PROD_ENG_DESC": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",
+        "VALUE": 81629810,
+        "WIEGHT": 40310875,
+        "YEAR": 2013,
+        "DIRECTION": "out",
+        "TYPE": "land"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.1623049,
+          24.2215667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POE_CODE": 1,
+        "LOCATION": [
+          58.5609912,
+          23.6277242
+        ],
+        "ARB_DESC": "ميناء السطان قابوس ",
+        "ENG_DESC": "MINA SULTAN QABOOS ",
+        "HS_CHAP": 4,
+        "PROD_ARB_DESC": "ألبان ومنتجات صناعة الألبان ؛ بيض طيور ؛ عسل طبيعي ؛ منتجات صالحة للأكل من أصل حيواني ، غير مذكورة ولا داخلة في مكان آخر",
+        "PROD_ENG_DESC": "Dairy produce; birds' eggs; natural honey; edible products of animal origin,not elsewhere specified or included",
+        "VALUE": 54687727,
+        "WIEGHT": 34589269,
+        "YEAR": 2013,
+        "DIRECTION": "out",
+        "TYPE": "sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.5609912,
+          23.6277242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POE_CODE": 29,
+        "LOCATION": [
+          52.6413722,
+          17.8428768
+        ],
+        "ARB_DESC": "المزيونة ",
+        "ENG_DESC": "AL.MAZYOONA ",
+        "HS_CHAP": 27,
+        "PROD_ARB_DESC": "وقود معدني ، زيوت معدنية ومنتجات تقطيرها ؛ مواد قارية ؛ شموع معدنية",
+        "PROD_ENG_DESC": "Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",
+        "VALUE": 105576815,
+        "WIEGHT": 202661202,
+        "YEAR": 2015,
+        "DIRECTION": "out",
+        "TYPE": "land"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.6413722,
+          17.8428768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POE_CODE": 84,
+        "LOCATION": [
+          59.528516,
+          22.576788
+        ],
+        "ARB_DESC": "ميناء صور",
+        "ENG_DESC": "SUR ",
+        "HS_CHAP": 31,
+        "PROD_ARB_DESC": "أسمدة",
+        "PROD_ENG_DESC": "Fertilisers",
+        "VALUE": 82578506,
+        "WIEGHT": 1422500000,
+        "YEAR": 2017,
+        "DIRECTION": "out",
+        "TYPE": "sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.528516,
+          22.576788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POE_CODE": 43,
+        "LOCATION": [
+          55.7670216,
+          24.2612732
+        ],
+        "ARB_DESC": "البريمي ",
+        "ENG_DESC": "AL.BURAIMI ",
+        "HS_CHAP": 87,
+        "PROD_ARB_DESC": "عربات عدا قاطرات وخطوط السكك الحديدية أو الترام، أجزاؤها ولوازمها",
+        "PROD_ENG_DESC": "Vehiclss other than railway or tramway rolling-stock, and parts and accessories thereof",
+        "VALUE": 614577782,
+        "WIEGHT": 117917112,
+        "YEAR": 2013,
+        "DIRECTION": "inout",
+        "TYPE": "land"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.7670216,
+          24.2612732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POE_CODE": 11,
+        "LOCATION": [
+          56.2506149,
+          26.2018549
+        ],
+        "ARB_DESC": "ميناء خصـب  البحري",
+        "ENG_DESC": "KHASAB ",
+        "HS_CHAP": 24,
+        "PROD_ARB_DESC": "تبغ وأبدال تبغ مصنعة",
+        "PROD_ENG_DESC": "Tobacco and manufactured tobacco substitutes",
+        "VALUE": 63568703,
+        "WIEGHT": 11695334,
+        "YEAR": 2013,
+        "DIRECTION": "inout",
+        "TYPE": "sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.2506149,
+          26.2018549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POE_CODE": 56,
+        "LOCATION": [
+          58.2800377,
+          23.592413
+        ],
+        "ARB_DESC": "مطار مسقط  ",
+        "ENG_DESC": "MUSACT  AIRPORT (CARGO)",
+        "HS_CHAP": 84,
+        "PROD_ARB_DESC": "مفاعلات نووية ومراجل وآلات وأجهزة وأدوات آلية ؛ أجزاؤها",
+        "PROD_ENG_DESC": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+        "VALUE": 43702234,
+        "WIEGHT": 357572,
+        "YEAR": 2014,
+        "DIRECTION": "inout",
+        "TYPE": "air"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.2800377,
+          23.592413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "POE_CODE": 30,
+        "LOCATION": [
+          56.3583754,
+          24.9839237
+        ],
+        "ARB_DESC": "خطمه الملاحه ",
+        "ENG_DESC": "KHATMAT MILAHA (BORDER  POST)",
+        "HS_CHAP": 87,
+        "PROD_ARB_DESC": "عربات عدا قاطرات وخطوط السكك الحديدية أو الترام، أجزاؤها ولوازمها",
+        "PROD_ENG_DESC": "Vehiclss other than railway or tramway rolling-stock, and parts and accessories thereof",
+        "VALUE": 191451295,
+        "WIEGHT": 36487478,
+        "YEAR": 2016,
+        "DIRECTION": "inout",
+        "TYPE": "land"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.3583754,
+          24.9839237
+        ]
+      }
+    }
+  ]
+}

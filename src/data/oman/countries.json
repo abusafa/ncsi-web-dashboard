@@ -1,0 +1,2561 @@
+[
+  {
+    "name": "Afghanistan",
+    "map_short_name": "Afgh",
+    "alt_name": null,
+    "_id": "c_4",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 4,
+    "COUNTRY_CD": 4
+  },
+  {
+    "name": "Albania",
+    "map_short_name": "Alb",
+    "alt_name": null,
+    "_id": "c_8",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 8,
+    "COUNTRY_CD": 8
+  },
+  {
+    "name": "Algeria",
+    "map_short_name": "Algr",
+    "alt_name": null,
+    "_id": "c_12",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 12,
+    "COUNTRY_CD": 12
+  },
+  {
+    "name": "American Samoa",
+    "map_short_name": "Am Sam",
+    "alt_name": null,
+    "_id": "c_16",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 16,
+    "COUNTRY_CD": 16
+  },
+  {
+    "name": "Andorra",
+    "map_short_name": "And",
+    "alt_name": null,
+    "_id": "c_20",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 20,
+    "COUNTRY_CD": 20
+  },
+  {
+    "name": "Angola",
+    "map_short_name": "Ago",
+    "alt_name": null,
+    "_id": "c_24",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 24,
+    "COUNTRY_CD": 24
+  },
+  {
+    "name": "Anguilla",
+    "map_short_name": null,
+    "alt_name": null,
+    "_id": "c_660",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 660,
+    "COUNTRY_CD": 660
+  },
+  {
+    "name": "Antarctica",
+    "map_short_name": "Anta",
+    "alt_name": null,
+    "_id": "c_10",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 10,
+    "COUNTRY_CD": 10
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "map_short_name": "Atg",
+    "alt_name": null,
+    "_id": "c_28",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 28,
+    "COUNTRY_CD": 28
+  },
+  {
+    "name": "Areas, nes",
+    "map_short_name": null,
+    "alt_name": null,
+    "_id": "c_899",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 899,
+    "COUNTRY_CD": 899
+  },
+  {
+    "name": "Argentina",
+    "map_short_name": "Arg",
+    "alt_name": null,
+    "_id": "c_32",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 32,
+    "COUNTRY_CD": 32
+  },
+  {
+    "name": "Armenia",
+    "map_short_name": "Arm",
+    "alt_name": null,
+    "_id": "c_51",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 51,
+    "COUNTRY_CD": 51
+  },
+  {
+    "name": "Aruba",
+    "map_short_name": null,
+    "alt_name": null,
+    "_id": "c_533",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 533,
+    "COUNTRY_CD": 533
+  },
+  {
+    "name": "Australia",
+    "map_short_name": "Aus",
+    "alt_name": null,
+    "_id": "c_36",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 36,
+    "COUNTRY_CD": 36
+  },
+  {
+    "name": "Austria",
+    "map_short_name": "Aust",
+    "alt_name": null,
+    "_id": "c_40",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 40,
+    "COUNTRY_CD": 40
+  },
+  {
+    "name": "Azerbaijan",
+    "map_short_name": "Aze",
+    "alt_name": null,
+    "_id": "c_31",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 31,
+    "COUNTRY_CD": 31
+  },
+  {
+    "name": "Bahamas",
+    "map_short_name": "Bhs",
+    "alt_name": null,
+    "_id": "c_44",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 44,
+    "COUNTRY_CD": 44
+  },
+  {
+    "name": "Bahrain",
+    "map_short_name": "Bhr",
+    "alt_name": null,
+    "ar_name": "مملكة البحرين",
+    "_id": "c_48",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 48,
+    "COUNTRY_CD": 48
+  },
+  {
+    "name": "Bangladesh",
+    "map_short_name": "Bngd",
+    "alt_name": null,
+    "_id": "c_50",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 50,
+    "COUNTRY_CD": 50
+  },
+  {
+    "name": "Barbados",
+    "map_short_name": "Brb",
+    "alt_name": null,
+    "_id": "c_52",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 52,
+    "COUNTRY_CD": 52
+  },
+  {
+    "name": "Belarus",
+    "map_short_name": "Blr",
+    "alt_name": null,
+    "_id": "c_112",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 112,
+    "COUNTRY_CD": 112
+  },
+  {
+    "name": "Belgium",
+    "map_short_name": "Bel",
+    "alt_name": null,
+    "_id": "c_56",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 56,
+    "COUNTRY_CD": 56
+  },
+  {
+    "name": "Belize",
+    "map_short_name": "Blz",
+    "alt_name": null,
+    "_id": "c_84",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 84,
+    "COUNTRY_CD": 84
+  },
+  {
+    "name": "Benin",
+    "map_short_name": "Ben",
+    "alt_name": null,
+    "_id": "c_204",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 204,
+    "COUNTRY_CD": 204
+  },
+  {
+    "name": "Bermuda",
+    "map_short_name": "Brmu",
+    "alt_name": null,
+    "_id": "c_60",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 60,
+    "COUNTRY_CD": 60
+  },
+  {
+    "name": "Bhutan",
+    "map_short_name": "Btn",
+    "alt_name": null,
+    "_id": "c_64",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 64,
+    "COUNTRY_CD": 64
+  },
+  {
+    "name": "Bolivia",
+    "map_short_name": "Bol",
+    "alt_name": null,
+    "_id": "c_68",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 68,
+    "COUNTRY_CD": 68
+  },
+  {
+    "name": "Bonaire",
+    "map_short_name": null,
+    "alt_name": null,
+    "_id": "c_535",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 535,
+    "COUNTRY_CD": 535
+  },
+  {
+    "name": "Bosnia Herzegovina",
+    "map_short_name": "B Hrz",
+    "alt_name": null,
+    "_id": "c_70",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 70,
+    "COUNTRY_CD": 70
+  },
+  {
+    "name": "Botswana",
+    "map_short_name": "Bwa",
+    "alt_name": null,
+    "_id": "c_72",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 72,
+    "COUNTRY_CD": 72
+  },
+  {
+    "name": "Bouvet Island",
+    "map_short_name": "Bouv I",
+    "alt_name": null,
+    "_id": "c_74",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 74,
+    "COUNTRY_CD": 74
+  },
+  {
+    "name": "Brazil",
+    "map_short_name": "Bra",
+    "alt_name": null,
+    "ar_name": "البرازيل",
+    "_id": "c_76",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 76,
+    "COUNTRY_CD": 76
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "map_short_name": "IOT",
+    "alt_name": null,
+    "_id": "c_86",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 86,
+    "COUNTRY_CD": 86
+  },
+  {
+    "name": "British Virgin Islands",
+    "map_short_name": "B Virg",
+    "alt_name": null,
+    "_id": "c_92",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 92,
+    "COUNTRY_CD": 92
+  },
+  {
+    "name": "Brunei Darussalam",
+    "map_short_name": "Brn",
+    "alt_name": null,
+    "_id": "c_96",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 96,
+    "COUNTRY_CD": 96
+  },
+  {
+    "name": "Bulgaria",
+    "map_short_name": "Bgr",
+    "alt_name": null,
+    "_id": "c_100",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 100,
+    "COUNTRY_CD": 100
+  },
+  {
+    "name": "Bunkers",
+    "map_short_name": null,
+    "alt_name": null,
+    "_id": "c_837",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 837,
+    "COUNTRY_CD": 837
+  },
+  {
+    "name": "Burkina Faso",
+    "map_short_name": "B Faso",
+    "alt_name": null,
+    "_id": "c_854",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 854,
+    "COUNTRY_CD": 854
+  },
+  {
+    "name": "Burundi",
+    "map_short_name": "Bdi",
+    "alt_name": null,
+    "_id": "c_108",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 108,
+    "COUNTRY_CD": 108
+  },
+  {
+    "name": "Cabo Verde",
+    "map_short_name": "C Verde",
+    "alt_name": "Cape Verde",
+    "_id": "c_132",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 132,
+    "COUNTRY_CD": 132
+  },
+  {
+    "name": "Cambodia",
+    "map_short_name": "Camb",
+    "alt_name": null,
+    "_id": "c_116",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 116,
+    "COUNTRY_CD": 116
+  },
+  {
+    "name": "Cameroon",
+    "map_short_name": "Cmr",
+    "alt_name": null,
+    "_id": "c_120",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 120,
+    "COUNTRY_CD": 120
+  },
+  {
+    "name": "Canada",
+    "map_short_name": "Can",
+    "alt_name": null,
+    "_id": "c_124",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 124,
+    "COUNTRY_CD": 124
+  },
+  {
+    "name": "Caribbean, nes",
+    "map_short_name": "Carib, nes",
+    "alt_name": null,
+    "_id": "c_129",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 129,
+    "COUNTRY_CD": 129
+  },
+  {
+    "name": "Cayman Islands",
+    "map_short_name": "Cym",
+    "alt_name": null,
+    "_id": "c_136",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 136,
+    "COUNTRY_CD": 136
+  },
+  {
+    "name": "Central African Republic",
+    "map_short_name": "CAR",
+    "alt_name": null,
+    "_id": "c_140",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 140,
+    "COUNTRY_CD": 140
+  },
+  {
+    "name": "Central American Common Market, nes",
+    "map_short_name": "CACM, nes",
+    "alt_name": null,
+    "_id": "c_471",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 471,
+    "COUNTRY_CD": 471
+  },
+  {
+    "name": "Chad",
+    "map_short_name": null,
+    "alt_name": null,
+    "_id": "c_148",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 148,
+    "COUNTRY_CD": 148
+  },
+  {
+    "name": "Chile",
+    "map_short_name": null,
+    "alt_name": null,
+    "_id": "c_152",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 152,
+    "COUNTRY_CD": 152
+  },
+  {
+    "name": "China",
+    "map_short_name": "Chn",
+    "alt_name": null,
+    "ar_name": "الصين",
+    "_id": "c_156",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 156,
+    "COUNTRY_CD": 156
+  },
+  {
+    "name": "China, Hong Kong SAR",
+    "map_short_name": "HK",
+    "alt_name": null,
+    "_id": "c_344",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 344,
+    "COUNTRY_CD": 344
+  },
+  {
+    "name": "China, Macao SAR",
+    "map_short_name": "Mac",
+    "alt_name": null,
+    "_id": "c_446",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 446,
+    "COUNTRY_CD": 446
+  },
+  {
+    "name": "Christmas Islands",
+    "map_short_name": "Chr I",
+    "alt_name": null,
+    "_id": "c_162",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 162,
+    "COUNTRY_CD": 162
+  },
+  {
+    "name": "Cocos Islands",
+    "map_short_name": "Cocos",
+    "alt_name": null,
+    "_id": "c_166",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 166,
+    "COUNTRY_CD": 166
+  },
+  {
+    "name": "Colombia",
+    "map_short_name": "Col",
+    "alt_name": null,
+    "_id": "c_170",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 170,
+    "COUNTRY_CD": 170
+  },
+  {
+    "name": "Comoros",
+    "map_short_name": "Com",
+    "alt_name": null,
+    "_id": "c_174",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 174,
+    "COUNTRY_CD": 174
+  },
+  {
+    "name": "Congo, Democratic Republic",
+    "map_short_name": "DRC",
+    "alt_name": "DRC",
+    "_id": "c_180",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 180,
+    "COUNTRY_CD": 180
+  },
+  {
+    "name": "Congo, Republic",
+    "map_short_name": "Cong R",
+    "alt_name": null,
+    "_id": "c_178",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 178,
+    "COUNTRY_CD": 178
+  },
+  {
+    "name": "Cook Islands",
+    "map_short_name": "Cook",
+    "alt_name": null,
+    "_id": "c_184",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 184,
+    "COUNTRY_CD": 184
+  },
+  {
+    "name": "Costa Rica",
+    "map_short_name": "C Rica",
+    "alt_name": null,
+    "_id": "c_188",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 188,
+    "COUNTRY_CD": 188
+  },
+  {
+    "name": "Cote d'Ivoire",
+    "map_short_name": "C d'Iv",
+    "alt_name": "Ivory Coast",
+    "_id": "c_384",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 384,
+    "COUNTRY_CD": 384
+  },
+  {
+    "name": "Croatia",
+    "map_short_name": "Croa",
+    "alt_name": null,
+    "_id": "c_191",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 191,
+    "COUNTRY_CD": 191
+  },
+  {
+    "name": "Cuba",
+    "map_short_name": "Cub",
+    "alt_name": null,
+    "_id": "c_192",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 192,
+    "COUNTRY_CD": 192
+  },
+  {
+    "name": "Curacao",
+    "map_short_name": "Curac",
+    "alt_name": null,
+    "_id": "c_531",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 531,
+    "COUNTRY_CD": 531
+  },
+  {
+    "name": "Cyprus",
+    "map_short_name": "Cyp",
+    "alt_name": null,
+    "_id": "c_196",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 196,
+    "COUNTRY_CD": 196
+  },
+  {
+    "name": "Czech Republic",
+    "map_short_name": "Cze",
+    "alt_name": null,
+    "_id": "c_203",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 203,
+    "COUNTRY_CD": 203
+  },
+  {
+    "name": "Denmark",
+    "map_short_name": "Dnk",
+    "alt_name": null,
+    "_id": "c_208",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 208,
+    "COUNTRY_CD": 208
+  },
+  {
+    "name": "Djibouti",
+    "map_short_name": "Dji",
+    "alt_name": null,
+    "_id": "c_262",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 262,
+    "COUNTRY_CD": 262
+  },
+  {
+    "name": "Dominica",
+    "map_short_name": null,
+    "alt_name": null,
+    "_id": "c_212",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 212,
+    "COUNTRY_CD": 212
+  },
+  {
+    "name": "Dominican Republic",
+    "map_short_name": "Dom Rep",
+    "alt_name": null,
+    "_id": "c_214",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 214,
+    "COUNTRY_CD": 214
+  },
+  {
+    "name": "Eastern Europe, nes",
+    "map_short_name": "E Eur, nes",
+    "alt_name": null,
+    "_id": "c_221",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 221,
+    "COUNTRY_CD": 221
+  },
+  {
+    "name": "Ecuador",
+    "map_short_name": "Ecu",
+    "alt_name": null,
+    "_id": "c_218",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 218,
+    "COUNTRY_CD": 218
+  },
+  {
+    "name": "Egypt",
+    "map_short_name": "Egy",
+    "alt_name": null,
+    "_id": "c_818",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 818,
+    "COUNTRY_CD": 818
+  },
+  {
+    "name": "El Salvador",
+    "map_short_name": "El S",
+    "alt_name": null,
+    "_id": "c_222",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 222,
+    "COUNTRY_CD": 222
+  },
+  {
+    "name": "Equatorial Guinea",
+    "map_short_name": "E Guin",
+    "alt_name": null,
+    "_id": "c_226",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 226,
+    "COUNTRY_CD": 226
+  },
+  {
+    "name": "Eritrea",
+    "map_short_name": "Eri",
+    "alt_name": null,
+    "_id": "c_232",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 232,
+    "COUNTRY_CD": 232
+  },
+  {
+    "name": "Estonia",
+    "map_short_name": "Est",
+    "alt_name": null,
+    "_id": "c_233",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 233,
+    "COUNTRY_CD": 233
+  },
+  {
+    "name": "Ethiopia",
+    "map_short_name": "Eth",
+    "alt_name": null,
+    "_id": "c_231",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 231,
+    "COUNTRY_CD": 231
+  },
+  {
+    "name": "EU-28 bloc",
+    "map_short_name": null,
+    "alt_name": "European Union",
+    "_id": "c_97",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 97,
+    "COUNTRY_CD": 97
+  },
+  {
+    "name": "Europe EU, nes",
+    "map_short_name": null,
+    "alt_name": null,
+    "_id": "c_492",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 492,
+    "COUNTRY_CD": 492
+  },
+  {
+    "name": "Faeroe Islands",
+    "map_short_name": "Faer",
+    "alt_name": null,
+    "_id": "c_234",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 234,
+    "COUNTRY_CD": 234
+  },
+  {
+    "name": "Falkland Islands (Malvinas)",
+    "map_short_name": "Flk",
+    "alt_name": null,
+    "_id": "c_238",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 238,
+    "COUNTRY_CD": 238
+  },
+  {
+    "name": "Fiji",
+    "map_short_name": null,
+    "alt_name": null,
+    "_id": "c_242",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 242,
+    "COUNTRY_CD": 242
+  },
+  {
+    "name": "Finland",
+    "map_short_name": "Fin",
+    "alt_name": null,
+    "_id": "c_246",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 246,
+    "COUNTRY_CD": 246
+  },
+  {
+    "name": "Former Sudan",
+    "map_short_name": "F Sdn",
+    "alt_name": null,
+    "_id": "c_736",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 736,
+    "COUNTRY_CD": 736
+  },
+  {
+    "name": "France",
+    "map_short_name": "Fra",
+    "alt_name": null,
+    "_id": "c_251",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 251,
+    "COUNTRY_CD": 251
+  },
+  {
+    "name": "Free Zones",
+    "map_short_name": null,
+    "alt_name": null,
+    "_id": "c_838",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 838,
+    "COUNTRY_CD": 838
+  },
+  {
+    "name": "French Polynesia",
+    "map_short_name": "F Plyn",
+    "alt_name": null,
+    "_id": "c_258",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 258,
+    "COUNTRY_CD": 258
+  },
+  {
+    "name": "French Southern Territories",
+    "map_short_name": "ATF",
+    "alt_name": null,
+    "_id": "c_260",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 260,
+    "COUNTRY_CD": 260
+  },
+  {
+    "name": "Gabon",
+    "map_short_name": "Gab",
+    "alt_name": null,
+    "_id": "c_266",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 266,
+    "COUNTRY_CD": 266
+  },
+  {
+    "name": "Gambia",
+    "map_short_name": "Gmb",
+    "alt_name": null,
+    "_id": "c_270",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 270,
+    "COUNTRY_CD": 270
+  },
+  {
+    "name": "Georgia",
+    "map_short_name": "Geo",
+    "alt_name": null,
+    "_id": "c_268",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 268,
+    "COUNTRY_CD": 268
+  },
+  {
+    "name": "Germany",
+    "map_short_name": "Ger",
+    "alt_name": null,
+    "_id": "c_276",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 276,
+    "COUNTRY_CD": 276
+  },
+  {
+    "name": "Ghana",
+    "map_short_name": "Gha",
+    "alt_name": null,
+    "_id": "c_288",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 288,
+    "COUNTRY_CD": 288
+  },
+  {
+    "name": "Gibraltar",
+    "map_short_name": "Gib",
+    "alt_name": null,
+    "_id": "c_292",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 292,
+    "COUNTRY_CD": 292
+  },
+  {
+    "name": "Greece",
+    "map_short_name": "Grc",
+    "alt_name": null,
+    "_id": "c_300",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 300,
+    "COUNTRY_CD": 300
+  },
+  {
+    "name": "Greenland",
+    "map_short_name": "Grl",
+    "alt_name": null,
+    "_id": "c_304",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 304,
+    "COUNTRY_CD": 304
+  },
+  {
+    "name": "Grenada",
+    "map_short_name": "Grd",
+    "alt_name": null,
+    "_id": "c_308",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 308,
+    "COUNTRY_CD": 308
+  },
+  {
+    "name": "Guam",
+    "map_short_name": null,
+    "alt_name": null,
+    "_id": "c_316",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 316,
+    "COUNTRY_CD": 316
+  },
+  {
+    "name": "Guatemala",
+    "map_short_name": "Guatm",
+    "alt_name": null,
+    "_id": "c_320",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 320,
+    "COUNTRY_CD": 320
+  },
+  {
+    "name": "Guinea",
+    "map_short_name": "Guin",
+    "alt_name": null,
+    "_id": "c_324",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 324,
+    "COUNTRY_CD": 324
+  },
+  {
+    "name": "Guinea-Bissau",
+    "map_short_name": "G-Biss",
+    "alt_name": null,
+    "_id": "c_624",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 624,
+    "COUNTRY_CD": 624
+  },
+  {
+    "name": "Guyana",
+    "map_short_name": "Guy",
+    "alt_name": null,
+    "_id": "c_328",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 328,
+    "COUNTRY_CD": 328
+  },
+  {
+    "name": "Haiti",
+    "map_short_name": "Hti",
+    "alt_name": null,
+    "_id": "c_332",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 332,
+    "COUNTRY_CD": 332
+  },
+  {
+    "name": "Heard Island and McDonald Islands",
+    "map_short_name": "HMD",
+    "alt_name": null,
+    "_id": "c_334",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 334,
+    "COUNTRY_CD": 334
+  },
+  {
+    "name": "Holy See",
+    "map_short_name": "Vat",
+    "alt_name": "Vatican City",
+    "_id": "c_336",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 336,
+    "COUNTRY_CD": 336
+  },
+  {
+    "name": "Honduras",
+    "map_short_name": "Hnd",
+    "alt_name": null,
+    "_id": "c_340",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 340,
+    "COUNTRY_CD": 340
+  },
+  {
+    "name": "Hungary",
+    "map_short_name": "Hun",
+    "alt_name": null,
+    "_id": "c_348",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 348,
+    "COUNTRY_CD": 348
+  },
+  {
+    "name": "Iceland",
+    "map_short_name": "Ice",
+    "alt_name": null,
+    "_id": "c_352",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 352,
+    "COUNTRY_CD": 352
+  },
+  {
+    "name": "India",
+    "map_short_name": "Ind",
+    "alt_name": "",
+    "ar_name": "الهند",
+    "_id": "c_699",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 699,
+    "COUNTRY_CD": 356
+  },
+  {
+    "name": "Indonesia",
+    "map_short_name": "Idn",
+    "alt_name": null,
+    "_id": "c_360",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 360,
+    "COUNTRY_CD": 360
+  },
+  {
+    "name": "Iran",
+    "map_short_name": "Irn",
+    "alt_name": null,
+    "_id": "c_364",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 364,
+    "COUNTRY_CD": 364
+  },
+  {
+    "name": "Iraq",
+    "map_short_name": "Irq",
+    "alt_name": null,
+    "_id": "c_368",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 368,
+    "COUNTRY_CD": 368
+  },
+  {
+    "name": "Ireland",
+    "map_short_name": "Irld",
+    "alt_name": null,
+    "_id": "c_372",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 372,
+    "COUNTRY_CD": 372
+  },
+  {
+    "name": "Israel",
+    "map_short_name": "Isr",
+    "alt_name": null,
+    "_id": "c_376",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 376,
+    "COUNTRY_CD": 376
+  },
+  {
+    "name": "Italy",
+    "map_short_name": "Ita",
+    "alt_name": null,
+    "_id": "c_381",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 381,
+    "COUNTRY_CD": 381
+  },
+  {
+    "name": "Jamaica",
+    "map_short_name": "Jam",
+    "alt_name": null,
+    "_id": "c_388",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 388,
+    "COUNTRY_CD": 388
+  },
+  {
+    "name": "Japan",
+    "map_short_name": "Jpn",
+    "alt_name": null,
+    "ar_name": "اليابان",
+    "_id": "c_392",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 392,
+    "COUNTRY_CD": 392
+  },
+  {
+    "name": "Jordan",
+    "map_short_name": "Jor",
+    "alt_name": null,
+    "_id": "c_400",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 400,
+    "COUNTRY_CD": 400
+  },
+  {
+    "name": "Kazakhstan",
+    "map_short_name": "Kaz",
+    "alt_name": null,
+    "_id": "c_398",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 398,
+    "COUNTRY_CD": 398
+  },
+  {
+    "name": "Kenya",
+    "map_short_name": "Ken",
+    "alt_name": null,
+    "_id": "c_404",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 404,
+    "COUNTRY_CD": 404
+  },
+  {
+    "name": "Kiribati",
+    "map_short_name": "Kir",
+    "alt_name": null,
+    "_id": "c_296",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 296,
+    "COUNTRY_CD": 296
+  },
+  {
+    "name": "Korea, Democratic People’s Republic",
+    "map_short_name": "PRK",
+    "alt_name": "North Korea",
+    "_id": "c_408",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 408,
+    "COUNTRY_CD": 408
+  },
+  {
+    "name": "Korea, Republic",
+    "map_short_name": "Kor",
+    "alt_name": "South Korea",
+    "ar_name": "كوريا الجنوبية",
+    "_id": "c_410",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 410,
+    "COUNTRY_CD": 410
+  },
+  {
+    "name": "Kuwait",
+    "map_short_name": "Kwt",
+    "alt_name": null,
+    "_id": "c_414",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 414,
+    "COUNTRY_CD": 414
+  },
+  {
+    "name": "Kyrgyzstan",
+    "map_short_name": "Kyrg",
+    "alt_name": null,
+    "_id": "c_417",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 417,
+    "COUNTRY_CD": 417
+  },
+  {
+    "name": "Lao PDR",
+    "map_short_name": "Lao",
+    "alt_name": "Laos",
+    "_id": "c_418",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 418,
+    "COUNTRY_CD": 418
+  },
+  {
+    "name": "Latin American Integration Association, nes",
+    "map_short_name": "Latin Amer, nes",
+    "alt_name": null,
+    "_id": "c_473",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 473,
+    "COUNTRY_CD": 473
+  },
+  {
+    "name": "Latvia",
+    "map_short_name": "Ltva",
+    "alt_name": null,
+    "_id": "c_428",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 428,
+    "COUNTRY_CD": 428
+  },
+  {
+    "name": "Lebanon",
+    "map_short_name": "Lbn",
+    "alt_name": null,
+    "_id": "c_422",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 422,
+    "COUNTRY_CD": 422
+  },
+  {
+    "name": "Lesotho",
+    "map_short_name": "Lso",
+    "alt_name": null,
+    "_id": "c_426",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 426,
+    "COUNTRY_CD": 426
+  },
+  {
+    "name": "Liberia",
+    "map_short_name": "Lbr",
+    "alt_name": null,
+    "_id": "c_430",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 430,
+    "COUNTRY_CD": 430
+  },
+  {
+    "name": "Libya",
+    "map_short_name": "Lby",
+    "alt_name": null,
+    "_id": "c_434",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 434,
+    "COUNTRY_CD": 434
+  },
+  {
+    "name": "Lithuania",
+    "map_short_name": "Lthu",
+    "alt_name": null,
+    "_id": "c_440",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 440,
+    "COUNTRY_CD": 440
+  },
+  {
+    "name": "Luxembourg",
+    "map_short_name": "Lux",
+    "alt_name": null,
+    "_id": "c_442",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 442,
+    "COUNTRY_CD": 442
+  },
+  {
+    "name": "Macedonia, FYR",
+    "map_short_name": "Macd",
+    "alt_name": null,
+    "_id": "c_807",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 807,
+    "COUNTRY_CD": 807
+  },
+  {
+    "name": "Madagascar",
+    "map_short_name": "Mdg",
+    "alt_name": null,
+    "_id": "c_450",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 450,
+    "COUNTRY_CD": 450
+  },
+  {
+    "name": "Malawi",
+    "map_short_name": "Mwi",
+    "alt_name": null,
+    "_id": "c_454",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 454,
+    "COUNTRY_CD": 454
+  },
+  {
+    "name": "Malaysia",
+    "map_short_name": "Mlys",
+    "alt_name": null,
+    "_id": "c_458",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 458,
+    "COUNTRY_CD": 458
+  },
+  {
+    "name": "Maldives",
+    "map_short_name": "Mdv",
+    "alt_name": null,
+    "_id": "c_462",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 462,
+    "COUNTRY_CD": 462
+  },
+  {
+    "name": "Mali",
+    "map_short_name": null,
+    "alt_name": null,
+    "_id": "c_466",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 466,
+    "COUNTRY_CD": 466
+  },
+  {
+    "name": "Malta",
+    "map_short_name": "Mlt",
+    "alt_name": null,
+    "_id": "c_470",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 470,
+    "COUNTRY_CD": 470
+  },
+  {
+    "name": "Marshall Islands",
+    "map_short_name": "Mar Isds",
+    "alt_name": null,
+    "_id": "c_584",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 584,
+    "COUNTRY_CD": 584
+  },
+  {
+    "name": "Mauritania",
+    "map_short_name": "Mrt",
+    "alt_name": null,
+    "_id": "c_478",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 478,
+    "COUNTRY_CD": 478
+  },
+  {
+    "name": "Mauritius",
+    "map_short_name": "Maur",
+    "alt_name": null,
+    "_id": "c_480",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 480,
+    "COUNTRY_CD": 480
+  },
+  {
+    "name": "Mayotte",
+    "map_short_name": "Myt",
+    "alt_name": null,
+    "_id": "c_175",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 175,
+    "COUNTRY_CD": 175
+  },
+  {
+    "name": "Mexico",
+    "map_short_name": "Mex",
+    "alt_name": null,
+    "_id": "c_484",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 484,
+    "COUNTRY_CD": 484
+  },
+  {
+    "name": "Micronesia",
+    "map_short_name": "Micron",
+    "alt_name": null,
+    "_id": "c_583",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 583,
+    "COUNTRY_CD": 583
+  },
+  {
+    "name": "Moldova",
+    "map_short_name": "Mldva",
+    "alt_name": null,
+    "_id": "c_498",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 498,
+    "COUNTRY_CD": 498
+  },
+  {
+    "name": "Mongolia",
+    "map_short_name": "Mng",
+    "alt_name": null,
+    "_id": "c_496",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 496,
+    "COUNTRY_CD": 496
+  },
+  {
+    "name": "Montenegro",
+    "map_short_name": "Mnte",
+    "alt_name": null,
+    "_id": "c_499",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 499,
+    "COUNTRY_CD": 499
+  },
+  {
+    "name": "Montserrat",
+    "map_short_name": "Msr",
+    "alt_name": null,
+    "_id": "c_500",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 500,
+    "COUNTRY_CD": 500
+  },
+  {
+    "name": "Morocco",
+    "map_short_name": "Mrcco",
+    "alt_name": null,
+    "_id": "c_504",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 504,
+    "COUNTRY_CD": 504
+  },
+  {
+    "name": "Mozambique",
+    "map_short_name": "Moz",
+    "alt_name": null,
+    "_id": "c_508",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 508,
+    "COUNTRY_CD": 508
+  },
+  {
+    "name": "Myanmar",
+    "map_short_name": "Mynmr",
+    "alt_name": "Burma",
+    "_id": "c_104",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 104,
+    "COUNTRY_CD": 104
+  },
+  {
+    "name": "Namibia",
+    "map_short_name": "Nam",
+    "alt_name": null,
+    "_id": "c_516",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 516,
+    "COUNTRY_CD": 516
+  },
+  {
+    "name": "Nauru",
+    "map_short_name": "Nru",
+    "alt_name": null,
+    "_id": "c_520",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 520,
+    "COUNTRY_CD": 520
+  },
+  {
+    "name": "Nepal",
+    "map_short_name": "Npl",
+    "alt_name": null,
+    "_id": "c_524",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 524,
+    "COUNTRY_CD": 524
+  },
+  {
+    "name": "Netherlands",
+    "map_short_name": "Nld",
+    "alt_name": null,
+    "_id": "c_528",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 528,
+    "COUNTRY_CD": 528
+  },
+  {
+    "name": "Netherlands Antilles",
+    "map_short_name": "N Ant",
+    "alt_name": null,
+    "_id": "c_530",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 530,
+    "COUNTRY_CD": 530
+  },
+  {
+    "name": "Neutral Zone",
+    "map_short_name": null,
+    "alt_name": null,
+    "_id": "c_536",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 536,
+    "COUNTRY_CD": 536
+  },
+  {
+    "name": "New Caledonia",
+    "map_short_name": "N Cal",
+    "alt_name": null,
+    "_id": "c_540",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 540,
+    "COUNTRY_CD": 540
+  },
+  {
+    "name": "New Zealand",
+    "map_short_name": "NZ",
+    "alt_name": null,
+    "_id": "c_554",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 554,
+    "COUNTRY_CD": 554
+  },
+  {
+    "name": "Nicaragua",
+    "map_short_name": "Nic",
+    "alt_name": null,
+    "_id": "c_558",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 558,
+    "COUNTRY_CD": 558
+  },
+  {
+    "name": "Niger",
+    "map_short_name": "Ner",
+    "alt_name": null,
+    "_id": "c_562",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 562,
+    "COUNTRY_CD": 562
+  },
+  {
+    "name": "Nigeria",
+    "map_short_name": "Nga",
+    "alt_name": null,
+    "_id": "c_566",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 566,
+    "COUNTRY_CD": 566
+  },
+  {
+    "name": "Niue",
+    "map_short_name": "Niu",
+    "alt_name": null,
+    "_id": "c_570",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 570,
+    "COUNTRY_CD": 570
+  },
+  {
+    "name": "Norfolk Islands",
+    "map_short_name": "Nfk",
+    "alt_name": null,
+    "_id": "c_574",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 574,
+    "COUNTRY_CD": 574
+  },
+  {
+    "name": "North America and Central America, nes",
+    "map_short_name": "N & C Amer, nes",
+    "alt_name": null,
+    "_id": "c_637",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 637,
+    "COUNTRY_CD": 637
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "map_short_name": "N Mar Isds",
+    "alt_name": null,
+    "_id": "c_580",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 580,
+    "COUNTRY_CD": 580
+  },
+  {
+    "name": "Norway",
+    "map_short_name": "Nor",
+    "alt_name": null,
+    "_id": "c_579",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 579,
+    "COUNTRY_CD": 579
+  },
+  {
+    "name": "Oceania, nes",
+    "map_short_name": "Oce, nes",
+    "alt_name": null,
+    "_id": "c_527",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 527,
+    "COUNTRY_CD": 527
+  },
+  {
+    "name": "Oman",
+    "map_short_name": "Omn",
+    "alt_name": null,
+    "_id": "c_512",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 512,
+    "COUNTRY_CD": 512
+  },
+  {
+    "name": "Other Africa, nes",
+    "map_short_name": "Afr, nes",
+    "alt_name": null,
+    "_id": "c_577",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 577,
+    "COUNTRY_CD": 577
+  },
+  {
+    "name": "Other Asia, nes",
+    "map_short_name": null,
+    "alt_name": null,
+    "ar_name": "آسيا الأخرى، نيس",
+    "_id": "c_490",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 490,
+    "COUNTRY_CD": 490
+  },
+  {
+    "name": "Other Europe, nes",
+    "map_short_name": "Eur, nes",
+    "alt_name": null,
+    "_id": "c_568",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 568,
+    "COUNTRY_CD": 568
+  },
+  {
+    "name": "Pakistan",
+    "map_short_name": "Pak",
+    "alt_name": null,
+    "_id": "c_586",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 586,
+    "COUNTRY_CD": 586
+  },
+  {
+    "name": "Palau",
+    "map_short_name": null,
+    "alt_name": null,
+    "_id": "c_585",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 585,
+    "COUNTRY_CD": 585
+  },
+  {
+    "name": "Panama",
+    "map_short_name": "Pan",
+    "alt_name": null,
+    "_id": "c_591",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 591,
+    "COUNTRY_CD": 591
+  },
+  {
+    "name": "Papua New Guinea",
+    "map_short_name": "PNG",
+    "alt_name": "PNG",
+    "_id": "c_598",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 598,
+    "COUNTRY_CD": 598
+  },
+  {
+    "name": "Paraguay",
+    "map_short_name": "Para",
+    "alt_name": null,
+    "_id": "c_600",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 600,
+    "COUNTRY_CD": 600
+  },
+  {
+    "name": "Peru",
+    "map_short_name": "Per",
+    "alt_name": null,
+    "_id": "c_604",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 604,
+    "COUNTRY_CD": 604
+  },
+  {
+    "name": "Philippines",
+    "map_short_name": "Phl",
+    "alt_name": null,
+    "_id": "c_608",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 608,
+    "COUNTRY_CD": 608
+  },
+  {
+    "name": "Pitcairn",
+    "map_short_name": "Pcn",
+    "alt_name": null,
+    "_id": "c_612",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 612,
+    "COUNTRY_CD": 612
+  },
+  {
+    "name": "Poland",
+    "map_short_name": "Pol",
+    "alt_name": null,
+    "_id": "c_616",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 616,
+    "COUNTRY_CD": 616
+  },
+  {
+    "name": "Portugal",
+    "map_short_name": "Port",
+    "alt_name": null,
+    "_id": "c_620",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 620,
+    "COUNTRY_CD": 620
+  },
+  {
+    "name": "Qatar",
+    "map_short_name": "Qat",
+    "alt_name": null,
+    "_id": "c_634",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 634,
+    "COUNTRY_CD": 634
+  },
+  {
+    "name": "Rest of America, nes",
+    "map_short_name": "Rest of Amer, nes",
+    "alt_name": null,
+    "_id": "c_636",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 636,
+    "COUNTRY_CD": 636
+  },
+  {
+    "name": "Romania",
+    "map_short_name": "Rom",
+    "alt_name": null,
+    "_id": "c_642",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 642,
+    "COUNTRY_CD": 642
+  },
+  {
+    "name": "Russian Federation",
+    "map_short_name": "Rus",
+    "alt_name": null,
+    "_id": "c_643",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 643,
+    "COUNTRY_CD": 643
+  },
+  {
+    "name": "Rwanda",
+    "map_short_name": "Rwa",
+    "alt_name": null,
+    "_id": "c_646",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 646,
+    "COUNTRY_CD": 646
+  },
+  {
+    "name": "Saint-Barthelemy",
+    "map_short_name": "S Barth",
+    "alt_name": "St Barthelemy",
+    "_id": "c_652",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 652,
+    "COUNTRY_CD": 652
+  },
+  {
+    "name": "Saint Helena",
+    "map_short_name": "S Hel",
+    "alt_name": "St Helena",
+    "_id": "c_654",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 654,
+    "COUNTRY_CD": 654
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "map_short_name": "S Kitts",
+    "alt_name": "St Kitts and Nevis",
+    "_id": "c_659",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 659,
+    "COUNTRY_CD": 659
+  },
+  {
+    "name": "Saint Lucia",
+    "map_short_name": "S Lca",
+    "alt_name": "St Lucia",
+    "_id": "c_662",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 662,
+    "COUNTRY_CD": 662
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "map_short_name": "SPM",
+    "alt_name": null,
+    "_id": "c_666",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 666,
+    "COUNTRY_CD": 666
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "map_short_name": "S Vct",
+    "alt_name": "St Vincent",
+    "_id": "c_670",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 670,
+    "COUNTRY_CD": 670
+  },
+  {
+    "name": "Samoa",
+    "map_short_name": "Sam",
+    "alt_name": null,
+    "_id": "c_882",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 882,
+    "COUNTRY_CD": 882
+  },
+  {
+    "name": "San Marino",
+    "map_short_name": "S Mar",
+    "alt_name": null,
+    "_id": "c_674",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 674,
+    "COUNTRY_CD": 674
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "map_short_name": "STP",
+    "alt_name": null,
+    "_id": "c_678",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 678,
+    "COUNTRY_CD": 678
+  },
+  {
+    "name": "Saudi Arabia",
+    "map_short_name": "Sau",
+    "alt_name": null,
+    "ar_name": "المملكة العربية السعودية",
+    "_id": "c_682",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 682,
+    "COUNTRY_CD": 682
+  },
+  {
+    "name": "Senegal",
+    "map_short_name": "Sen",
+    "alt_name": null,
+    "_id": "c_686",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 686,
+    "COUNTRY_CD": 686
+  },
+  {
+    "name": "Serbia",
+    "map_short_name": "Srb",
+    "alt_name": null,
+    "_id": "c_688",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 688,
+    "COUNTRY_CD": 688
+  },
+  {
+    "name": "Serbia and Montenegro",
+    "map_short_name": "Serb",
+    "alt_name": null,
+    "_id": "c_891",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 891,
+    "COUNTRY_CD": 891
+  },
+  {
+    "name": "Seychelles",
+    "map_short_name": "Syc",
+    "alt_name": null,
+    "_id": "c_690",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 690,
+    "COUNTRY_CD": 690
+  },
+  {
+    "name": "Sierra Leone",
+    "map_short_name": "S Le",
+    "alt_name": null,
+    "_id": "c_694",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 694,
+    "COUNTRY_CD": 694
+  },
+  {
+    "name": "Singapore",
+    "map_short_name": "Sgp",
+    "alt_name": null,
+    "_id": "c_702",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 702,
+    "COUNTRY_CD": 702
+  },
+  {
+    "name": "Sint Maarten (Dutch part)",
+    "map_short_name": "S Mrtn",
+    "alt_name": null,
+    "_id": "c_534",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 534,
+    "COUNTRY_CD": 534
+  },
+  {
+    "name": "Slovakia",
+    "map_short_name": "Svk",
+    "alt_name": null,
+    "_id": "c_703",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 703,
+    "COUNTRY_CD": 703
+  },
+  {
+    "name": "Slovenia",
+    "map_short_name": "Slvn",
+    "alt_name": null,
+    "_id": "c_705",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 705,
+    "COUNTRY_CD": 705
+  },
+  {
+    "name": "Solomon Islands",
+    "map_short_name": "Sol Isds",
+    "alt_name": null,
+    "_id": "c_90",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 90,
+    "COUNTRY_CD": 90
+  },
+  {
+    "name": "Somalia",
+    "map_short_name": "Som",
+    "alt_name": null,
+    "_id": "c_706",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 706,
+    "COUNTRY_CD": 706
+  },
+  {
+    "name": "South Africa",
+    "map_short_name": "S Afr",
+    "alt_name": null,
+    "_id": "c_710",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 710,
+    "COUNTRY_CD": 710
+  },
+  {
+    "name": "South Georgia and the South Sandwich Islands",
+    "map_short_name": "SGS",
+    "alt_name": null,
+    "_id": "c_239",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 239,
+    "COUNTRY_CD": 239
+  },
+  {
+    "name": "South Sudan",
+    "map_short_name": "S Sud",
+    "alt_name": null,
+    "_id": "c_728",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 728,
+    "COUNTRY_CD": 728
+  },
+  {
+    "name": "Spain",
+    "map_short_name": "Spa",
+    "alt_name": null,
+    "_id": "c_724",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 724,
+    "COUNTRY_CD": 724
+  },
+  {
+    "name": "Special Categories",
+    "map_short_name": null,
+    "alt_name": null,
+    "_id": "c_839",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 839,
+    "COUNTRY_CD": 839
+  },
+  {
+    "name": "Sri Lanka",
+    "map_short_name": "S Lka",
+    "alt_name": null,
+    "_id": "c_144",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 144,
+    "COUNTRY_CD": 144
+  },
+  {
+    "name": "State of Palestine",
+    "map_short_name": "Palst",
+    "alt_name": "West Bank and Gaza",
+    "_id": "c_275",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 275,
+    "COUNTRY_CD": 275
+  },
+  {
+    "name": "Sudan",
+    "map_short_name": "Sdn",
+    "alt_name": null,
+    "_id": "c_729",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 729,
+    "COUNTRY_CD": 729
+  },
+  {
+    "name": "Suriname",
+    "map_short_name": "Sur",
+    "alt_name": null,
+    "_id": "c_740",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 740,
+    "COUNTRY_CD": 740
+  },
+  {
+    "name": "Swaziland",
+    "map_short_name": "Swz",
+    "alt_name": null,
+    "_id": "c_748",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 748,
+    "COUNTRY_CD": 748
+  },
+  {
+    "name": "Sweden",
+    "map_short_name": "Swe",
+    "alt_name": null,
+    "_id": "c_752",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 752,
+    "COUNTRY_CD": 752
+  },
+  {
+    "name": "Switzerland",
+    "map_short_name": "Swi",
+    "alt_name": null,
+    "_id": "c_757",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 757,
+    "COUNTRY_CD": 757
+  },
+  {
+    "name": "Syria",
+    "map_short_name": "Syr",
+    "alt_name": null,
+    "_id": "c_760",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 760,
+    "COUNTRY_CD": 760
+  },
+  {
+    "name": "Tajikistan",
+    "map_short_name": "Tjk",
+    "alt_name": null,
+    "_id": "c_762",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 762,
+    "COUNTRY_CD": 762
+  },
+  {
+    "name": "Tanzania",
+    "map_short_name": "Tza",
+    "alt_name": null,
+    "_id": "c_834",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 834,
+    "COUNTRY_CD": 834
+  },
+  {
+    "name": "Thailand",
+    "map_short_name": "Thai",
+    "alt_name": null,
+    "_id": "c_764",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 764,
+    "COUNTRY_CD": 764
+  },
+  {
+    "name": "Timor-Leste",
+    "map_short_name": "Timor",
+    "alt_name": "East Timor",
+    "_id": "c_626",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 626,
+    "COUNTRY_CD": 626
+  },
+  {
+    "name": "Togo",
+    "map_short_name": "Tgo",
+    "alt_name": null,
+    "_id": "c_768",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 768,
+    "COUNTRY_CD": 768
+  },
+  {
+    "name": "Tokelau",
+    "map_short_name": "Tkl",
+    "alt_name": null,
+    "_id": "c_772",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 772,
+    "COUNTRY_CD": 772
+  },
+  {
+    "name": "Tonga",
+    "map_short_name": "Ton",
+    "alt_name": null,
+    "_id": "c_776",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 776,
+    "COUNTRY_CD": 776
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "map_short_name": "T To",
+    "alt_name": null,
+    "_id": "c_780",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 780,
+    "COUNTRY_CD": 780
+  },
+  {
+    "name": "Tunisia",
+    "map_short_name": "Tun",
+    "alt_name": null,
+    "_id": "c_788",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 788,
+    "COUNTRY_CD": 788
+  },
+  {
+    "name": "Turkey",
+    "map_short_name": "Tur",
+    "alt_name": null,
+    "_id": "c_792",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 792,
+    "COUNTRY_CD": 792
+  },
+  {
+    "name": "Turkmenistan",
+    "map_short_name": "Tkm",
+    "alt_name": null,
+    "_id": "c_795",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 795,
+    "COUNTRY_CD": 795
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "map_short_name": "T Ca",
+    "alt_name": null,
+    "_id": "c_796",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 796,
+    "COUNTRY_CD": 796
+  },
+  {
+    "name": "Tuvalu",
+    "map_short_name": "Tuv",
+    "alt_name": null,
+    "_id": "c_798",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 798,
+    "COUNTRY_CD": 798
+  },
+  {
+    "name": "Uganda",
+    "map_short_name": "Uga",
+    "alt_name": null,
+    "_id": "c_800",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 800,
+    "COUNTRY_CD": 800
+  },
+  {
+    "name": "Ukraine",
+    "map_short_name": "Ukr",
+    "alt_name": null,
+    "_id": "c_804",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 804,
+    "COUNTRY_CD": 804
+  },
+  {
+    "name": "United Arab Emirates",
+    "map_short_name": "ARE",
+    "alt_name": "UAE",
+    "ar_name": "الإمارات العربية المتحدة",
+    "_id": "c_784",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 784,
+    "COUNTRY_CD": 784
+  },
+  {
+    "name": "United Kingdom",
+    "map_short_name": null,
+    "alt_name": "UK",
+    "_id": "c_826",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 826,
+    "COUNTRY_CD": 826
+  },
+  {
+    "name": "United States",
+    "map_short_name": "USA",
+    "alt_name": "USA",
+    "_id": "c_842",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 842,
+    "COUNTRY_CD": 840
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "map_short_name": "UMI",
+    "alt_name": null,
+    "_id": "c_581",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 581,
+    "COUNTRY_CD": 581
+  },
+  {
+    "name": "Uruguay",
+    "map_short_name": "Urgy",
+    "alt_name": null,
+    "_id": "c_858",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 858,
+    "COUNTRY_CD": 858
+  },
+  {
+    "name": "Uzbekistan",
+    "map_short_name": "Uzb",
+    "alt_name": null,
+    "_id": "c_860",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 860,
+    "COUNTRY_CD": 860
+  },
+  {
+    "name": "Vanuatu",
+    "map_short_name": null,
+    "alt_name": null,
+    "_id": "c_548",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 548,
+    "COUNTRY_CD": 548
+  },
+  {
+    "name": "Venezuela",
+    "map_short_name": "Ven",
+    "alt_name": null,
+    "_id": "c_862",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 862,
+    "COUNTRY_CD": 862
+  },
+  {
+    "name": "Vietnam",
+    "map_short_name": "Vnm",
+    "alt_name": null,
+    "_id": "c_704",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 704,
+    "COUNTRY_CD": 704
+  },
+  {
+    "name": "Wallis and Futuna Islands",
+    "map_short_name": "WLF",
+    "alt_name": null,
+    "_id": "c_876",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 876,
+    "COUNTRY_CD": 876
+  },
+  {
+    "name": "Western Asia, nes",
+    "map_short_name": "W Asia, nes",
+    "alt_name": null,
+    "_id": "c_879",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 879,
+    "COUNTRY_CD": 879
+  },
+  {
+    "name": "Western Sahara",
+    "map_short_name": "W Sah",
+    "alt_name": null,
+    "_id": "c_732",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 732,
+    "COUNTRY_CD": 732
+  },
+  {
+    "name": "Yemen",
+    "map_short_name": "Yem",
+    "alt_name": null,
+    "_id": "c_887",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 887,
+    "COUNTRY_CD": 720
+  },
+  {
+    "name": "Zambia",
+    "map_short_name": "Zmb",
+    "alt_name": null,
+    "_id": "c_894",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 894,
+    "COUNTRY_CD": 894
+  },
+  {
+    "name": "Zimbabwe",
+    "map_short_name": "Zbwe",
+    "alt_name": null,
+    "_id": "c_716",
+    "_created_at": 1509198538436,
+    "_updated_at": 1509198538436,
+    "code": 716,
+    "COUNTRY_CD": 716
+  }
+]

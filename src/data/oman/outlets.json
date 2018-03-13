@@ -1,0 +1,142 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [{
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 4,
+      "NAME_AR": "ميناء صلالة التجاري",
+      "Code": 4,
+      "Import12": "672,779,164",
+      "Import13": "586,609,746",
+      "Import14": "146,120,760",
+      "Import15": "480,799,382",
+      "Import16": "362,976,605",
+      "Export12": "474,137,306",
+      "Export13": "401,355,016",
+      "Export14": "105,386,015",
+      "Export15": "556,810,846",
+      "Export16": "480,799,38",
+      "PointofEnt": "بحري"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [54.02883700012888, 16.961347179805717]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 0,
+      "NAME_AR": "ميناء السلطان قابوس",
+      "Code": 6,
+      "Import12": "2,320,178,974",
+      "Import13": "219,450,779",
+      "Import14": "58,263,372",
+      "Import15": "3,856,787,556",
+      "Import16": "210,636,977",
+      "Export12": "97,226,323",
+      "Export13": "754,071",
+      "Export14": "1,364,178",
+      "Export15": "3,970,976,537",
+      "Export16": "3,856,787,",
+      "PointofEnt": "بحري"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [58.56470519970534, 23.630730793796637]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 0,
+      "NAME_AR": "مطار مسقط الدولي",
+      "Code": 16,
+      "Import12": "74,257,625",
+      "Import13": "173,333,383",
+      "Import14": "70,276,682",
+      "Import15": "72,218,618",
+      "Import16": "-",
+      "Export12": "-",
+      "Export13": "-",
+      "Export14": "-",
+      "Export15": "121,896,540",
+      "Export16": "72,218,618",
+      "PointofEnt": "جوي"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [58.29088239187507, 23.58865573044436]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 0,
+      "NAME_AR": "مطار صلالة",
+      "Code": 21,
+      "Import12": "8,348,331",
+      "Import13": "10,543,404",
+      "Import14": "3,451.486",
+      "Import15": "8,748,300",
+      "Import16": "884,022",
+      "Export12": "558,149",
+      "Export13": "994,642",
+      "Export14": "72,344",
+      "Export15": "7,946,671",
+      "Export16": "8,748,300",
+      "PointofEnt": "جوي"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [54.10676709028286, 17.03856585131959]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 0,
+      "NAME_AR": "مركز شرطة البريمي",
+      "Code": 11,
+      "Import12": "63,439,947",
+      "Import13": "38,150,039",
+      "Import14": "14,159,503",
+      "Import15": "97,341,943",
+      "Import16": "11,908,382",
+      "Export12": "13,524,667",
+      "Export13": "20,649,517",
+      "Export14": "6,880,567",
+      "Export15": "66,620,210",
+      "Export16": "97,341,943",
+      "PointofEnt": "بري"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [55.77383667017289, 24.245799129869344]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "OBJECTID": 0,
+      "NAME_AR": "مركز شرطة الوجاجة",
+      "Code": 13,
+      "Import12": "2,170,062,480",
+      "Import13": "2,150,719,249",
+      "Import14": "700,697,619",
+      "Import15": "1,567,879,056",
+      "Import16": "361,524,440",
+      "Export12": "425,749,401",
+      "Export13": "409,707,362",
+      "Export14": "140,063,827",
+      "Export15": "1,739,905,011",
+      "Export16": "1,567,879,",
+      "PointofEnt": "بري"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [56.296307169675224, 24.784809979945436]
+    }
+  }]
+}

@@ -1,0 +1,947 @@
+[
+  {
+    "COUNTRY_CD": 784,
+    "ARB_DESC": "الامارات العربيه المتحدة",
+    "ENG_DESC": "United Arab Emirates",
+    "VALUE": 3911332130,
+    "WEIGHT": 11604282983,
+    "YEAR": 2013,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": 392,
+    "ARB_DESC": "اليابان",
+    "ENG_DESC": "Japan",
+    "VALUE": 1277705939,
+    "WEIGHT": 451862028,
+    "YEAR": 2013,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": 356,
+    "ARB_DESC": "الهند",
+    "ENG_DESC": "India",
+    "VALUE": 1198539285,
+    "WEIGHT": 2934773944,
+    "YEAR": 2013,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": 682,
+    "ARB_DESC": "المملكة العربية السعودية",
+    "ENG_DESC": "Saudi Arabia",
+    "VALUE": 778117131,
+    "WEIGHT": 1732864802,
+    "YEAR": 2013,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": 840,
+    "ARB_DESC": "الولايات المتحده الأمريكية",
+    "ENG_DESC": "United States",
+    "VALUE": 582380965,
+    "WEIGHT": 273296183,
+    "YEAR": 2013,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": "other",
+    "ARB_DESC": "اخرى",
+    "ENG_DESC": "Other",
+    "VALUE": 5452962594,
+    "WEIGHT": 12749550372,
+    "YEAR": 2013,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": "total",
+    "ARB_DESC": "المجموع",
+    "ENG_DESC": "Total",
+    "VALUE": 13201038044,
+    "WEIGHT": 29746630312,
+    "YEAR": 2013,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": 784,
+    "ARB_DESC": "الامارات العربيه المتحدة",
+    "ENG_DESC": "United Arab Emirates",
+    "VALUE": 3658541535,
+    "WEIGHT": 9050895948,
+    "YEAR": 2014,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": 392,
+    "ARB_DESC": "اليابان",
+    "ENG_DESC": "Japan",
+    "VALUE": 1376195634,
+    "WEIGHT": 364877933,
+    "YEAR": 2014,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": 156,
+    "ARB_DESC": "الصين",
+    "ENG_DESC": "China",
+    "VALUE": 540567847,
+    "WEIGHT": 1077249798,
+    "YEAR": 2014,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": 356,
+    "ARB_DESC": "الهند",
+    "ENG_DESC": "India",
+    "VALUE": 486647565,
+    "WEIGHT": 1237810873,
+    "YEAR": 2014,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": 840,
+    "ARB_DESC": "الولايات المتحده الأمريكية",
+    "ENG_DESC": "United States",
+    "VALUE": 486278716,
+    "WEIGHT": 201087577,
+    "YEAR": 2014,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": "other",
+    "ARB_DESC": "اخرى",
+    "ENG_DESC": "Other",
+    "VALUE": 4719431512,
+    "WEIGHT": 11243385210,
+    "YEAR": 2014,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": "total",
+    "ARB_DESC": "المجموع",
+    "ENG_DESC": "Total",
+    "VALUE": 11267662809,
+    "WEIGHT": 23175307339,
+    "YEAR": 2014,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": 784,
+    "ARB_DESC": "الامارات العربيه المتحدة",
+    "ENG_DESC": "United Arab Emirates",
+    "VALUE": 4271002926,
+    "WEIGHT": 11615627865,
+    "YEAR": 2015,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": 392,
+    "ARB_DESC": "اليابان",
+    "ENG_DESC": "Japan",
+    "VALUE": 663266727,
+    "WEIGHT": 234638832,
+    "YEAR": 2015,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": 356,
+    "ARB_DESC": "الهند",
+    "ENG_DESC": "India",
+    "VALUE": 625545166,
+    "WEIGHT": 1812199676,
+    "YEAR": 2015,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": 156,
+    "ARB_DESC": "الصين",
+    "ENG_DESC": "China",
+    "VALUE": 583802000,
+    "WEIGHT": 1240677239,
+    "YEAR": 2015,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": 840,
+    "ARB_DESC": "الولايات المتحده الأمريكية",
+    "ENG_DESC": "United States",
+    "VALUE": 561480167,
+    "WEIGHT": 290159308,
+    "YEAR": 2015,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": "other",
+    "ARB_DESC": "اخرى",
+    "ENG_DESC": "Other",
+    "VALUE": 4448211773,
+    "WEIGHT": 20377105182,
+    "YEAR": 2015,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": "total",
+    "ARB_DESC": "المجموع",
+    "ENG_DESC": "Total",
+    "VALUE": 11153308759,
+    "WEIGHT": 35570408102,
+    "YEAR": 2015,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": 784,
+    "ARB_DESC": "الامارات العربيه المتحدة",
+    "ENG_DESC": "United Arab Emirates",
+    "VALUE": 4343322693,
+    "WEIGHT": 20102699044,
+    "YEAR": 2016,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": 156,
+    "ARB_DESC": "الصين",
+    "ENG_DESC": "China",
+    "VALUE": 455394260,
+    "WEIGHT": 999043542,
+    "YEAR": 2016,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": 356,
+    "ARB_DESC": "الهند",
+    "ENG_DESC": "India",
+    "VALUE": 444326538,
+    "WEIGHT": 1879352710,
+    "YEAR": 2016,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": 840,
+    "ARB_DESC": "الولايات المتحده الأمريكية",
+    "ENG_DESC": "United States",
+    "VALUE": 417320630,
+    "WEIGHT": 168249404,
+    "YEAR": 2016,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": 392,
+    "ARB_DESC": "اليابان",
+    "ENG_DESC": "Japan",
+    "VALUE": 401951125,
+    "WEIGHT": 3622767111,
+    "YEAR": 2016,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": "other",
+    "ARB_DESC": "اخرى",
+    "ENG_DESC": "Other",
+    "VALUE": 2837922317,
+    "WEIGHT": 15072870642,
+    "YEAR": 2016,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": "total",
+    "ARB_DESC": "المجموع",
+    "ENG_DESC": "Total",
+    "VALUE": 8900237563,
+    "WEIGHT": 41844982453,
+    "YEAR": 2016,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": 784,
+    "ARB_DESC": "الامارات العربيه المتحدة",
+    "ENG_DESC": "United Arab Emirates",
+    "VALUE": 2442909296,
+    "WEIGHT": 6505638473,
+    "YEAR": 2017,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": 840,
+    "ARB_DESC": "الولايات المتحده الأمريكية",
+    "ENG_DESC": "United States",
+    "VALUE": 615475252,
+    "WEIGHT": 121429346,
+    "YEAR": 2017,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": 156,
+    "ARB_DESC": "الصين",
+    "ENG_DESC": "China",
+    "VALUE": 325791080,
+    "WEIGHT": 547235031,
+    "YEAR": 2017,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": 356,
+    "ARB_DESC": "الهند",
+    "ENG_DESC": "India",
+    "VALUE": 257567702,
+    "WEIGHT": 1285839126,
+    "YEAR": 2017,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": 392,
+    "ARB_DESC": "اليابان  ",
+    "ENG_DESC": "Japan",
+    "VALUE": 191592810,
+    "WEIGHT": 213076918,
+    "YEAR": 2017,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": "other",
+    "ARB_DESC": "اخرى",
+    "ENG_DESC": "Other",
+    "VALUE": 1970486672,
+    "WEIGHT": 9547513547,
+    "YEAR": 2017,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": "total",
+    "ARB_DESC": "المجموع",
+    "ENG_DESC": "Total",
+    "VALUE": 5803822812,
+    "WEIGHT": 18220732441,
+    "YEAR": 2017,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": 784,
+    "ARB_DESC": "الامارات العربيه المتحدة",
+    "ENG_DESC": "United Arab Emirates",
+    "VALUE": 1270065897,
+    "WEIGHT": 758412701,
+    "YEAR": 2013,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": 682,
+    "ARB_DESC": "المملكة العربية السعودية",
+    "ENG_DESC": "Saudi Arabia",
+    "VALUE": 366234238,
+    "WEIGHT": 399109952,
+    "YEAR": 2013,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": 156,
+    "ARB_DESC": "الصين",
+    "ENG_DESC": "China",
+    "VALUE": 360447375,
+    "WEIGHT": 350077180,
+    "YEAR": 2013,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": 834,
+    "ARB_DESC": "تنزانيا",
+    "ENG_DESC": "Tanzania",
+    "VALUE": 151511193,
+    "WEIGHT": 318075932,
+    "YEAR": 2013,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": 586,
+    "ARB_DESC": "باكستان",
+    "ENG_DESC": "Pakistan",
+    "VALUE": 130470683,
+    "WEIGHT": 215287711,
+    "YEAR": 2013,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": "other",
+    "ARB_DESC": "اخرى",
+    "ENG_DESC": "Other",
+    "VALUE": 1262696630,
+    "WEIGHT": 1899593987,
+    "YEAR": 2013,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": "total",
+    "ARB_DESC": "المجموع",
+    "ENG_DESC": "Total",
+    "VALUE": 3541426016,
+    "WEIGHT": 3940557463,
+    "YEAR": 2013,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": 784,
+    "ARB_DESC": "الامارات العربيه المتحدة",
+    "ENG_DESC": "United Arab Emirates",
+    "VALUE": 1323044737,
+    "WEIGHT": 520025149,
+    "YEAR": 2014,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": 682,
+    "ARB_DESC": "المملكة العربية السعودية",
+    "ENG_DESC": "Saudi Arabia",
+    "VALUE": 355839950,
+    "WEIGHT": 187561958,
+    "YEAR": 2014,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": 156,
+    "ARB_DESC": "الصين",
+    "ENG_DESC": "China",
+    "VALUE": 252265958,
+    "WEIGHT": 151618256,
+    "YEAR": 2014,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": 364,
+    "ARB_DESC": "ايران",
+    "ENG_DESC": "Iran",
+    "VALUE": 133103276,
+    "WEIGHT": 30111388,
+    "YEAR": 2014,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": 586,
+    "ARB_DESC": "باكستان",
+    "ENG_DESC": "Pakistan",
+    "VALUE": 109821035,
+    "WEIGHT": 741039070,
+    "YEAR": 2014,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": "other",
+    "ARB_DESC": "اخرى",
+    "ENG_DESC": "Other",
+    "VALUE": 770039720,
+    "WEIGHT": 1256883044,
+    "YEAR": 2014,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": "total",
+    "ARB_DESC": "المجموع",
+    "ENG_DESC": "Total",
+    "VALUE": 7878708005,
+    "WEIGHT": 8727390315,
+    "YEAR": 2014,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": 784,
+    "ARB_DESC": "الامارات العربيه المتحدة",
+    "ENG_DESC": "United Arab Emirates",
+    "VALUE": 974840496,
+    "WEIGHT": 416304113,
+    "YEAR": 2015,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": 682,
+    "ARB_DESC": "المملكة العربية السعودية",
+    "ENG_DESC": "Saudi Arabia",
+    "VALUE": 313296116,
+    "WEIGHT": 197935028,
+    "YEAR": 2015,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": 156,
+    "ARB_DESC": "الصين",
+    "ENG_DESC": "China",
+    "VALUE": 295615781,
+    "WEIGHT": 22003912,
+    "YEAR": 2015,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": 368,
+    "ARB_DESC": "العراق",
+    "ENG_DESC": "Iraq",
+    "VALUE": 132068109,
+    "WEIGHT": 279334709,
+    "YEAR": 2015,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": 710,
+    "ARB_DESC": "جنوب إفريقيا",
+    "ENG_DESC": "South Africa",
+    "VALUE": 116280314,
+    "WEIGHT": 115933810,
+    "YEAR": 2015,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": "other",
+    "ARB_DESC": "اخرى",
+    "ENG_DESC": "Other",
+    "VALUE": 739482334,
+    "WEIGHT": 1185865997,
+    "YEAR": 2015,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": "total",
+    "ARB_DESC": "المجموع",
+    "ENG_DESC": "Total",
+    "VALUE": 2571583150,
+    "WEIGHT": 2217377569,
+    "YEAR": 2015,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": 784,
+    "ARB_DESC": "الامارات العربيه المتحدة",
+    "ENG_DESC": "United Arab Emirates",
+    "VALUE": 570335396,
+    "WEIGHT": 203713414,
+    "YEAR": 2016,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": 368,
+    "ARB_DESC": "العراق",
+    "ENG_DESC": "Iraq",
+    "VALUE": 259904301,
+    "WEIGHT": 769529573,
+    "YEAR": 2016,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": 156,
+    "ARB_DESC": "الصين",
+    "ENG_DESC": "China",
+    "VALUE": 189378794,
+    "WEIGHT": 45997170,
+    "YEAR": 2016,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": 682,
+    "ARB_DESC": "المملكة العربية السعودية",
+    "ENG_DESC": "Saudi Arabia",
+    "VALUE": 158077909,
+    "WEIGHT": 60993611,
+    "YEAR": 2016,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": 364,
+    "ARB_DESC": "ايران",
+    "ENG_DESC": "Iran",
+    "VALUE": 97658751,
+    "WEIGHT": 128631367,
+    "YEAR": 2016,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": "other",
+    "ARB_DESC": "اخرى",
+    "ENG_DESC": "Other",
+    "VALUE": 780938142,
+    "WEIGHT": 1796803353,
+    "YEAR": 2016,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": "total",
+    "ARB_DESC": "المجموع",
+    "ENG_DESC": "Total",
+    "VALUE": 2056293293,
+    "WEIGHT": 3005668488,
+    "YEAR": 2016,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": 784,
+    "ARB_DESC": "الامارات العربيه المتحدة",
+    "ENG_DESC": "United Arab Emirates",
+    "VALUE": 326471574,
+    "WEIGHT": 130064570,
+    "YEAR": 2017,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": 364,
+    "ARB_DESC": "ايران",
+    "ENG_DESC": "Iran",
+    "VALUE": 129302725,
+    "WEIGHT": 104368472,
+    "YEAR": 2017,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": 586,
+    "ARB_DESC": "باكستان",
+    "ENG_DESC": "Pakistan",
+    "VALUE": 63741025,
+    "WEIGHT": 116689657,
+    "YEAR": 2017,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": 720,
+    "ARB_DESC": "اليمن",
+    "ENG_DESC": "Yemen",
+    "VALUE": 62745947,
+    "WEIGHT": 217091961,
+    "YEAR": 2017,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": 634,
+    "ARB_DESC": "قطر",
+    "ENG_DESC": "Qatar",
+    "VALUE": 54781812,
+    "WEIGHT": 81664223,
+    "YEAR": 2017,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": "other",
+    "ARB_DESC": "اخرى",
+    "ENG_DESC": "Other",
+    "VALUE": 354769836,
+    "WEIGHT": 932817960,
+    "YEAR": 2017,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": "total",
+    "ARB_DESC": "المجموع",
+    "ENG_DESC": "Total",
+    "VALUE": 991812919,
+    "WEIGHT": 1582696843,
+    "YEAR": 2017,
+    "DIRECTION": "inout"
+  },
+  {
+    "COUNTRY_CD": 784,
+    "ARB_DESC": "الامارات العربيه المتحدة",
+    "ENG_DESC": "United Arab Emirates",
+    "VALUE": 658330994,
+    "WEIGHT": 9781276612,
+    "YEAR": 2013,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": 682,
+    "ARB_DESC": "المملكة العربية السعودية",
+    "ENG_DESC": "Saudi Arabia",
+    "VALUE": 542486880,
+    "WEIGHT": 4577040431,
+    "YEAR": 2013,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": 356,
+    "ARB_DESC": "الهند",
+    "ENG_DESC": "India",
+    "VALUE": 415728418,
+    "WEIGHT": 5338737396,
+    "YEAR": 2013,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": 586,
+    "ARB_DESC": "باكستان",
+    "ENG_DESC": "Pakistan",
+    "VALUE": 282389384,
+    "WEIGHT": 810371591,
+    "YEAR": 2013,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": 156,
+    "ARB_DESC": "الصين",
+    "ENG_DESC": "China",
+    "VALUE": 217110703,
+    "WEIGHT": 1795859022,
+    "YEAR": 2013,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": "other",
+    "ARB_DESC": "اخرى",
+    "ENG_DESC": "Other",
+    "VALUE": 1690835464,
+    "WEIGHT": 7934314753,
+    "YEAR": 2013,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": "total",
+    "ARB_DESC": "المجموع",
+    "ENG_DESC": "Total",
+    "VALUE": 3806881843,
+    "WEIGHT": 30237599805,
+    "YEAR": 2013,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": 784,
+    "ARB_DESC": "الامارات العربيه المتحدة",
+    "ENG_DESC": "United Arab Emirates",
+    "VALUE": 776023621,
+    "WEIGHT": 5399116546,
+    "YEAR": 2014,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": 586,
+    "ARB_DESC": "باكستان",
+    "ENG_DESC": "Pakistan",
+    "VALUE": 467965142,
+    "WEIGHT": 942397576,
+    "YEAR": 2014,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": 682,
+    "ARB_DESC": "المملكة العربية السعودية",
+    "ENG_DESC": "Saudi Arabia",
+    "VALUE": 436651728,
+    "WEIGHT": 2363312449,
+    "YEAR": 2014,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": 356,
+    "ARB_DESC": "الهند",
+    "ENG_DESC": "India",
+    "VALUE": 383638921,
+    "WEIGHT": 1851617741,
+    "YEAR": 2014,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": 840,
+    "ARB_DESC": "الولايات المتحده الأمريكية",
+    "ENG_DESC": "United States",
+    "VALUE": 221283269,
+    "WEIGHT": 716189360,
+    "YEAR": 2014,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": "other",
+    "ARB_DESC": "اخرى",
+    "ENG_DESC": "Other",
+    "VALUE": 1839908732,
+    "WEIGHT": 7458669207,
+    "YEAR": 2014,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": "total",
+    "ARB_DESC": "المجموع",
+    "ENG_DESC": "Total",
+    "VALUE": 4125471413,
+    "WEIGHT": 18731302879,
+    "YEAR": 2014,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": 784,
+    "ARB_DESC": "الامارات العربيه المتحدة",
+    "ENG_DESC": "United Arab Emirates",
+    "VALUE": 626230399,
+    "WEIGHT": 4030550395,
+    "YEAR": 2015,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": 682,
+    "ARB_DESC": "المملكة العربية السعودية",
+    "ENG_DESC": "Saudi Arabia",
+    "VALUE": 374999635,
+    "WEIGHT": 1614875633,
+    "YEAR": 2015,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": 356,
+    "ARB_DESC": "الهند",
+    "ENG_DESC": "India",
+    "VALUE": 274129494,
+    "WEIGHT": 2825242842,
+    "YEAR": 2015,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": 156,
+    "ARB_DESC": "الصين",
+    "ENG_DESC": "China",
+    "VALUE": 215602549,
+    "WEIGHT": 929696004,
+    "YEAR": 2015,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": 840,
+    "ARB_DESC": "الولايات المتحده الأمريكية",
+    "ENG_DESC": "United States",
+    "VALUE": 179988965,
+    "WEIGHT": 1011356012,
+    "YEAR": 2015,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": "other",
+    "ARB_DESC": "اخرى",
+    "ENG_DESC": "Other",
+    "VALUE": 1332954319,
+    "WEIGHT": 4490275709,
+    "YEAR": 2015,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": "total",
+    "ARB_DESC": "المجموع",
+    "ENG_DESC": "Total",
+    "VALUE": 3003905361,
+    "WEIGHT": 14901996595,
+    "YEAR": 2015,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": 784,
+    "ARB_DESC": "الامارات العربيه المتحدة",
+    "ENG_DESC": "United Arab Emirates",
+    "VALUE": 604623721,
+    "WEIGHT": 5776689409,
+    "YEAR": 2016,
+    "DIRECTION": "in"
+  },
+  {
+    "COUNTRY_CD": 682,
+    "ARB_DESC": "المملكة العربية السعودية",
+    "ENG_DESC": "Saudi Arabia",
+    "VALUE": 253544312,
+    "WEIGHT": 931826937,
+    "YEAR": 2016,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": 356,
+    "ARB_DESC": "الهند",
+    "ENG_DESC": "India",
+    "VALUE": 251664682,
+    "WEIGHT": 4113529906,
+    "YEAR": 2016,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": 156,
+    "ARB_DESC": "الصين",
+    "ENG_DESC": "China",
+    "VALUE": 197474890,
+    "WEIGHT": 1324064790,
+    "YEAR": 2016,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": 720,
+    "ARB_DESC": "اليمن",
+    "ENG_DESC": "Yemen",
+    "VALUE": 163835393,
+    "WEIGHT": 995745496,
+    "YEAR": 2016,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": "other",
+    "ARB_DESC": "اخرى",
+    "ENG_DESC": "Other",
+    "VALUE": 927518584,
+    "WEIGHT": 5874225271,
+    "YEAR": 2016,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": "total",
+    "ARB_DESC": "المجموع",
+    "ENG_DESC": "Total",
+    "VALUE": 2398661582,
+    "WEIGHT": 19016081809,
+    "YEAR": 2016,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": 784,
+    "ARB_DESC": "الامارات العربيه المتحدة",
+    "ENG_DESC": "United Arab Emirates",
+    "VALUE": 406966404,
+    "WEIGHT": 7653490128,
+    "YEAR": 2017,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": 682,
+    "ARB_DESC": "المملكة العربية السعودية",
+    "ENG_DESC": "Saudi Arabia",
+    "VALUE": 292221618,
+    "WEIGHT": 3003380143,
+    "YEAR": 2017,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": 356,
+    "ARB_DESC": "الهند",
+    "ENG_DESC": "India",
+    "VALUE": 189877619,
+    "WEIGHT": 4034603777,
+    "YEAR": 2017,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": 156,
+    "ARB_DESC": "الصين",
+    "ENG_DESC": "China",
+    "VALUE": 141005590,
+    "WEIGHT": 728839122,
+    "YEAR": 2017,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": 634,
+    "ARB_DESC": "قطر",
+    "ENG_DESC": "Qatar",
+    "VALUE": 91628018,
+    "WEIGHT": 1557400181,
+    "YEAR": 2017,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": "other",
+    "ARB_DESC": "اخرى",
+    "ENG_DESC": "Other",
+    "VALUE": 705499448,
+    "WEIGHT": 5655976650,
+    "YEAR": 2017,
+    "DIRECTION": "out"
+  },
+  {
+    "COUNTRY_CD": "total",
+    "ARB_DESC": "المجموع",
+    "ENG_DESC": "Total",
+    "VALUE": 1827198697,
+    "WEIGHT": 22633690001,
+    "YEAR": 2017,
+    "DIRECTION": "out"
+  }
+]

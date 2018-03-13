@@ -1,0 +1,5843 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [{
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": 1,
+      "ENG_DESC": "MINA SULTAN QABOOS ",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 2,
+      "ARB_DESC_1": "لحوم وأحشاء وأطراف صالحة للأكل",
+      "ENG_DESC_1": "Meat and edible meat offal",
+      "F2010": 63553,
+      "F2011": 36147,
+      "F2012": 1900,
+      "F2013": 0,
+      "F2014": 539,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 3,
+      "ARB_DESC_1": "أسمـاك وقشـريـات ، رخويــات وغيرهـا مـن الـلافقريــات المـائـية",
+      "ENG_DESC_1": "Fish and crustaceans, molluscs and other aquatic invertebrates",
+      "F2010": 12183755,
+      "F2011": 21273626,
+      "F2012": 28840316,
+      "F2013": 14230707,
+      "F2014": 5787682,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 4,
+      "ARB_DESC_1": "ألبان ومنتجات صناعة الألبان ؛ بيض طيور ؛ عسل طبيعي ؛ منتجات صالحة للأكل من أصل حيواني ، غير مذكورة ولا داخلة في مكان آخر ",
+      "ENG_DESC_1": "Dairy produce; birds' eggs; natural honey; edible products of animal origin,not elsewhere specified or included",
+      "F2010": 36150316,
+      "F2011": 36940867,
+      "F2012": 41871071,
+      "F2013": 54687727,
+      "F2014": 28119408,
+      "F2015": 26300,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 5,
+      "ARB_DESC_1": "منتجات أخر من أصل حيواني ، غير مذكورة ولا داخلة في مكان آخر ",
+      "ENG_DESC_1": "Products of animal origin,not elsewhere specified or included ",
+      "F2010": 452195,
+      "F2011": 141822,
+      "F2012": 339126,
+      "F2013": 0,
+      "F2014": 152315,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 7,
+      "ARB_DESC_1": "خضر ونباتات وجذور ودرنات غذائية ، صالحة للأكل ",
+      "ENG_DESC_1": "Edible vegetables and certain roots and tubers",
+      "F2010": 1285,
+      "F2011": 8473,
+      "F2012": 0,
+      "F2013": 2113,
+      "F2014": 4784,
+      "F2015": 204,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 8,
+      "ARB_DESC_1": "فواكه وأثمار صالحة للأكل ؛ قشور حمضيات وقشور بطيخ أو شمام ",
+      "ENG_DESC_1": "Edible fruit and nuts; peel of citrus fruit or melons",
+      "F2010": 1742165,
+      "F2011": 1931389,
+      "F2012": 1613696,
+      "F2013": 1919030,
+      "F2014": 957290,
+      "F2015": 20524,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 9,
+      "ARB_DESC_1": "بن وشاي ومته وبهارات وتوابل ",
+      "ENG_DESC_1": "Coffee, tea, mate and spices",
+      "F2010": 770,
+      "F2011": 16132,
+      "F2012": 23073,
+      "F2013": 5263,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 11,
+      "ARB_DESC_1": "منتجات مطاحن ؛ شعير ناشط (مالت) ؛ نشاء حبوب أو جذور أو درنات ؛ إينولين ؛ دابوق القمح (جلوتين) ",
+      "ENG_DESC_1": "Products of the milling industry; malt; starches; inulin; wheat gluten",
+      "F2010": 1984240,
+      "F2011": 2251143,
+      "F2012": 2318709,
+      "F2013": 2639587,
+      "F2014": 3128362,
+      "F2015": 599751,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 13,
+      "ARB_DESC_1": "صمغ اللك ؛ صموغ وراتنجات وغيرها من عصارات وخلاصات نباتية ",
+      "ENG_DESC_1": "Lac; gums, resins and other vegetable saps and extracts",
+      "F2010": 350,
+      "F2011": 825,
+      "F2012": 195,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 14,
+      "ARB_DESC_1": "مواد ضفر نباتية ؛ منتجات أخر من أصل نباتي غير مذكور ولا داخلة في مكان آخر ",
+      "ENG_DESC_1": "Vegetable plaiting materials; vegetable products not elsewhere specified or included",
+      "F2010": 9974,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 15,
+      "ARB_DESC_1": "شحوم ودهون وزيوت حيوانية أو نباتية ومنتجات تفككها ؛ دهون غذائية محضرة ؛  شموع من أصل حيوان أو نباتي ",
+      "ENG_DESC_1": "Animal or vegetable fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes",
+      "F2010": 724767,
+      "F2011": 1228558,
+      "F2012": 1578575,
+      "F2013": 3450161,
+      "F2014": 1977936,
+      "F2015": 49527,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 16,
+      "ARB_DESC_1": "محضرات لحوم وأسماك أو قشريات أو رخويات أو لافقريات مائية أخر ",
+      "ENG_DESC_1": "Preparations of meat, of fish or of crustaceans, molluscs or other aquatic invertebrates",
+      "F2010": 22744,
+      "F2011": 54155,
+      "F2012": 22927,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 17,
+      "ARB_DESC_1": "سكر ومصنوعات سكرية ",
+      "ENG_DESC_1": "Sugars and sugar confectionery",
+      "F2010": 2388064,
+      "F2011": 2245845,
+      "F2012": 1372160,
+      "F2013": 2255315,
+      "F2014": 1123679,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 18,
+      "ARB_DESC_1": "كاكاو ومحضراته ",
+      "ENG_DESC_1": "Cocoa and cocoa preparations",
+      "F2010": 7957,
+      "F2011": 198505,
+      "F2012": 836195,
+      "F2013": 231498,
+      "F2014": 227231,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 19,
+      "ARB_DESC_1": "محضرات أساسها الحبوب أو الدقيق أو النشا أو الحليب ؛ فطائر",
+      "ENG_DESC_1": "Preparations of cereals, flour, starch or milk; pastrycooks' products",
+      "F2010": 2524748,
+      "F2011": 4826196,
+      "F2012": 3517393,
+      "F2013": 4335530,
+      "F2014": 1678653,
+      "F2015": 1340,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 20,
+      "ARB_DESC_1": "محضرات خضر ، فواكه وأثمار أو محضرات من اجزاء أخرى من النباتات ",
+      "ENG_DESC_1": "Prepsrations of vegetables, fruit, nuts or other parts of plants",
+      "F2010": 3709664,
+      "F2011": 3910435,
+      "F2012": 2207794,
+      "F2013": 5374282,
+      "F2014": 2213215,
+      "F2015": 8756,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 21,
+      "ARB_DESC_1": "محضرات غذائية منوعة ",
+      "ENG_DESC_1": "Miscellaneous edible preparations",
+      "F2010": 752148,
+      "F2011": 814769,
+      "F2012": 1175491,
+      "F2013": 1680369,
+      "F2014": 878658,
+      "F2015": 16949,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 22,
+      "ARB_DESC_1": "مشروبات، سوائل كحولية وخل ",
+      "ENG_DESC_1": "Beverages, spirits and vinegar",
+      "F2010": 7872,
+      "F2011": 225,
+      "F2012": 14542,
+      "F2013": 206216,
+      "F2014": 337656,
+      "F2015": 450,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 23,
+      "ARB_DESC_1": "بقايا ونفايات صناعات الأغذية  أغذية محضرة للحيوانات ",
+      "ENG_DESC_1": "Residues and waste from the food industries; prepared animal fodder",
+      "F2010": 73647,
+      "F2011": 25040,
+      "F2012": 12606,
+      "F2013": 95118,
+      "F2014": 85086,
+      "F2015": 15000,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 25,
+      "ARB_DESC_1": "ملح ؛ كبريت ؛ أتربة  وأحجار ؛ جص ؛ كلس وأسمنت ",
+      "ENG_DESC_1": "Salt; sulphur; earths and stone; plastering materials, lime and cement",
+      "F2010": 7584527,
+      "F2011": 5952760,
+      "F2012": 8153224,
+      "F2013": 10117898,
+      "F2014": 4643799,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 26,
+      "ARB_DESC_1": "خامات معادن ، خبث ورماد ",
+      "ENG_DESC_1": "Ores, slag and ash",
+      "F2010": 13312968,
+      "F2011": 8884562,
+      "F2012": 5034325,
+      "F2013": 9437696,
+      "F2014": 7412983,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 27,
+      "ARB_DESC_1": "وقود معدني ، زيوت معدنية ومنتجات تقطيرها ؛ مواد قارية ؛ شموع معدنية",
+      "ENG_DESC_1": "Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",
+      "F2010": 6075723,
+      "F2011": 913436,
+      "F2012": 1516683,
+      "F2013": 22251479,
+      "F2014": 2962003,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 28,
+      "ARB_DESC_1": "منتجات كيماوية غير عضوية ؛ مركبات عضوية أو غير عضوية من معادن ثمينة أو من معادن أتربه نادرة أو من عناصر مشعة أو من نظائر ايزوتوب ",
+      "ENG_DESC_1": "Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals,of radioactive elements or of isotopes",
+      "F2010": 647129,
+      "F2011": 1944962,
+      "F2012": 614365,
+      "F2013": 465637,
+      "F2014": 178339,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 29,
+      "ARB_DESC_1": "منتجات كيماوية عضوية",
+      "ENG_DESC_1": "Organic chemicals",
+      "F2010": 9939,
+      "F2011": 1064033,
+      "F2012": 15144,
+      "F2013": 1538,
+      "F2014": 12956,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 30,
+      "ARB_DESC_1": "منتجات الصيدلية ",
+      "ENG_DESC_1": "Pharmaceutical products",
+      "F2010": 575036,
+      "F2011": 215223,
+      "F2012": 1678264,
+      "F2013": 932325,
+      "F2014": 1080643,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 31,
+      "ARB_DESC_1": " اسمدة",
+      "ENG_DESC_1": "Fertilisers",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 18588,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 32,
+      "ARB_DESC_1": "خلاصات للدباغة والصباغة ؛ مواد دابغة ومشتقاتها أصباغ ، ألوان سطحية (بيجمنت) ومواد ملونة أخر ؛ دهانات وورنيش ؛ معاجين ؛ حبر",
+      "ENG_DESC_1": "Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints and varnishes; putty and other mastics; inks ",
+      "F2010": 344616,
+      "F2011": 210377,
+      "F2012": 277272,
+      "F2013": 188848,
+      "F2014": 59069,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 33,
+      "ARB_DESC_1": "زيوت عطرية ومستخلصات مواد راتنجية (رزينويد) ؛ محضرات عطور أو تطرية (كوزماتيك) أو تجميل (تواليت)",
+      "ENG_DESC_1": "Essential oils and resinoids; perfumery, cosmetic or toilet preparations",
+      "F2010": 261940,
+      "F2011": 334101,
+      "F2012": 593562,
+      "F2013": 831289,
+      "F2014": 833713,
+      "F2015": 10,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 34,
+      "ARB_DESC_1": " صابون، وعوامل سطح عضوية (غواسل عضوية)  ومحضرات غسيل ومحضرات تشحيم وشموع اصطناعية  وشموع محضرة ومحضرات صقل أو تلميع وشموع إضاءة وأصناف مماثلة  ومعاجين لصنع النماذج وشموع طب الأسنان ومحضرات طب الأسنان أساسها الجص",
+      "ENG_DESC_1": "Soap, organic surface-active agents, washing preparations,lubricating preparations, artificial waxes, prepared waxes polishing or scouring preparations, candles and similar articles, modelling pastes, \" dental waxes, and dental preparations with a basis o",
+      "F2010": 2405832,
+      "F2011": 2368600,
+      "F2012": 3264498,
+      "F2013": 3939906,
+      "F2014": 2175841,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 35,
+      "ARB_DESC_1": "مواد زلالية ؛ منتجات أساسها النشا المعدل ؛ غراء ؛ انزيمات ",
+      "ENG_DESC_1": "Albumlnoidal substances; modified starches; glues; enzymes",
+      "F2010": 4030,
+      "F2011": 15,
+      "F2012": 2229,
+      "F2013": 7170,
+      "F2014": 8733,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 37,
+      "ARB_DESC_1": "منتجات تصوير فوتوغرافي أو سينمائي",
+      "ENG_DESC_1": "Photographic or cinematographic goods",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 14611,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 38,
+      "ARB_DESC_1": "منتجــــــات كيماويــــــــة منوعـــــــة",
+      "ENG_DESC_1": "Miscellaneous chemical products",
+      "F2010": 9287913,
+      "F2011": 8487839,
+      "F2012": 12615908,
+      "F2013": 10123072,
+      "F2014": 3336338,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 39,
+      "ARB_DESC_1": " لدائـــــــــــــــــن ومصنوعاتهــــــــــــــــــــا",
+      "ENG_DESC_1": "Plastics and articles thereof",
+      "F2010": 8841742,
+      "F2011": 7867808,
+      "F2012": 11982054,
+      "F2013": 8867568,
+      "F2014": 4201691,
+      "F2015": 8240,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 40,
+      "ARB_DESC_1": "مطـاط ومصنوعـاته ",
+      "ENG_DESC_1": "Rubber and articles thereof",
+      "F2010": 4043,
+      "F2011": 17276,
+      "F2012": 45339,
+      "F2013": 24841,
+      "F2014": 23342,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 41,
+      "ARB_DESC_1": "صلال وجلود خام (عدا جلود الفراء) وجلود مدبوغة",
+      "ENG_DESC_1": "Raw hides and skins (other than furskins) and leather",
+      "F2010": 13283,
+      "F2011": 29678,
+      "F2012": 52307,
+      "F2013": 416431,
+      "F2014": 144769,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 44,
+      "ARB_DESC_1": "خشب ومصنوعاته ؛ فحم خشبي   ",
+      "ENG_DESC_1": "Wood and articles of wood; wood charcoal",
+      "F2010": 0,
+      "F2011": 21658,
+      "F2012": 69051,
+      "F2013": 81456,
+      "F2014": 119230,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 45,
+      "ARB_DESC_1": "فليــن ومصنوعــاتـه ",
+      "ENG_DESC_1": "Cork and articles of cork",
+      "F2010": 7131,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 47,
+      "ARB_DESC_1": "عجائن من خشب أو مواد ليفية سليلوزية أخر ؛ ورق و ورق مقوى (نفايا وفضلات ) بغرض إعادة التصنيع ",
+      "ENG_DESC_1": "Pulp of wood or of other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard",
+      "F2010": 238012,
+      "F2011": 629922,
+      "F2012": 967555,
+      "F2013": 118274,
+      "F2014": 38986,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 48,
+      "ARB_DESC_1": "ورق وورق مقوى (كرتون) ؛ مصنوعات من عجينة السيليلوز أو من ورق أو من ورق مقوى ",
+      "ENG_DESC_1": "Paper and paperboard; articles of paper pulp, of paper or of paperboard",
+      "F2010": 837758,
+      "F2011": 851731,
+      "F2012": 1458003,
+      "F2013": 2462116,
+      "F2014": 1638926,
+      "F2015": 6900,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 49,
+      "ARB_DESC_1": "كتب ، صحف ، صور وغيرها من منتجات الطباعة والنشر ؛ مخطوطاتن يدوية ، مستنسخات وتصاميم ",
+      "ENG_DESC_1": "Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",
+      "F2010": 48432,
+      "F2011": 16775,
+      "F2012": 13640,
+      "F2013": 7140,
+      "F2014": 99204,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 50,
+      "ARB_DESC_1": "حرير طبيعي",
+      "ENG_DESC_1": "silk",
+      "F2010": 41846,
+      "F2011": 336843,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 52,
+      "ARB_DESC_1": "قطن",
+      "ENG_DESC_1": "Cotton",
+      "F2010": 108956,
+      "F2011": 188923,
+      "F2012": 29763,
+      "F2013": 7275,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 53,
+      "ARB_DESC_1": "ألياف نسجية نباتية أخر ، خيوط من ورق وأقمشة منسوجة من خيوط الورق ",
+      "ENG_DESC_1": "Other vegetable textile fibres;paper yarn and woven fabrics of paper yarn",
+      "F2010": 70698,
+      "F2011": 20209,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 54,
+      "ARB_DESC_1": "شعيـرات تـركيبيـة أو أصطنـاعيـة؛ قدد و أشكال مماثلة من مواد نسجية تركيبية أو اصطناعية",
+      "ENG_DESC_1": "Man-made filaments; strip and the like of man-made textile materials",
+      "F2010": 404741,
+      "F2011": 168781,
+      "F2012": 539963,
+      "F2013": 816734,
+      "F2014": 338299,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 55,
+      "ARB_DESC_1": "أليـاف تركيبيـة أو أصطنــاعيـة غير مستمرة ",
+      "ENG_DESC_1": "Man-made staple fibres",
+      "F2010": 390368,
+      "F2011": 194353,
+      "F2012": 390626,
+      "F2013": 418528,
+      "F2014": 149373,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 56,
+      "ARB_DESC_1": "حشـو ، لبـاد ولا منسـوجات ؛ خيوط خـاصة ؛ خيوط حزم وحبـال وأمراس وأصناف مصنوعة منها ",
+      "ENG_DESC_1": "Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",
+      "F2010": 31879,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 4307,
+      "F2014": 6734,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 57,
+      "ARB_DESC_1": "سجــاد وأغطيـة أرضيـات أخــر مـن مـواد نسجـية ",
+      "ENG_DESC_1": "Carpets and other textile floor coverings",
+      "F2010": 0,
+      "F2011": 5014,
+      "F2012": 7090,
+      "F2013": 1677,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 58,
+      "ARB_DESC_1": "أقمشة منسوجة خاصة ؛ أقمشة ذات خمل \"أوبار\" من مواد نسجية ؛ مسننات (دانتيلا) ؛ ديابيج ؛ أصناف عقادة ؛ مطرزات ",
+      "ENG_DESC_1": "Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery",
+      "F2010": 28779,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 61,
+      "ARB_DESC_1": "ألبسة وتوابع ألبسة من مصنرات أو كروشية ",
+      "ENG_DESC_1": "Articles of apparel and clothing accessories, knitted or crocheted",
+      "F2010": 0,
+      "F2011": 2500,
+      "F2012": 151248,
+      "F2013": 46378,
+      "F2014": 42886,
+      "F2015": 20,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 62,
+      "ARB_DESC_1": "ألبسة وتوابع ألبسة ، من غير المصنرات أو الكروشية",
+      "ENG_DESC_1": "Articles of apparel and clothing accessories, not knitted or crocheted",
+      "F2010": 238053,
+      "F2011": 406045,
+      "F2012": 645053,
+      "F2013": 161078,
+      "F2014": 109312,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 63,
+      "ARB_DESC_1": "أصناف أخر جاهزة من مواد نسجية ؛ مجموعات (أطقم ) ؛ ألبسة مستعملة وأصناف نسجية مستعملة ؛ أسمال وخرق",
+      "ENG_DESC_1": "Other made up textile articles; sets; worn clothing and worn textile articles; rags",
+      "F2010": 69865,
+      "F2011": 100791,
+      "F2012": 68347,
+      "F2013": 43170,
+      "F2014": 9182,
+      "F2015": 100,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 64,
+      "ARB_DESC_1": "أحذية وطماقات وما يماثلها ؛ أجزاء هذه الأصناف ",
+      "ENG_DESC_1": "Footwear, gaiters and the like; parts of such articles",
+      "F2010": 141966,
+      "F2011": 236660,
+      "F2012": 241714,
+      "F2013": 300110,
+      "F2014": 139075,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 68,
+      "ARB_DESC_1": "مصنوعات من حجر أو جص أو إسمنت أو حرير صخري (اسبستوس) أو ميكا أو من مواد مماثلة ",
+      "ENG_DESC_1": "Articles of stone, plaster, cement, asbestos, mica or similar materials",
+      "F2010": 9723164,
+      "F2011": 9702722,
+      "F2012": 9365426,
+      "F2013": 12415951,
+      "F2014": 6983094,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 69,
+      "ARB_DESC_1": "منتجــات مــن خـــزف ",
+      "ENG_DESC_1": "Ceramic products",
+      "F2010": 487451,
+      "F2011": 424281,
+      "F2012": 1342253,
+      "F2013": 1093020,
+      "F2014": 379465,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 70,
+      "ARB_DESC_1": "زجـــــاج ومصنوعـــاته ",
+      "ENG_DESC_1": "Glass and glassware",
+      "F2010": 1557576,
+      "F2011": 2154029,
+      "F2012": 1705150,
+      "F2013": 1533054,
+      "F2014": 222360,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 72,
+      "ARB_DESC_1": "الحديد والصلب (فولاذ) ",
+      "ENG_DESC_1": "Iron and steel",
+      "F2010": 399188,
+      "F2011": 242175,
+      "F2012": 1113524,
+      "F2013": 465478,
+      "F2014": 110576,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 73,
+      "ARB_DESC_1": "مصنوعات من حديد أو صب (فولاذ) ",
+      "ENG_DESC_1": "Articles of iron or steel",
+      "F2010": 1030774,
+      "F2011": 1907735,
+      "F2012": 13630472,
+      "F2013": 2193247,
+      "F2014": 555242,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 74,
+      "ARB_DESC_1": "نحـــاس ومصنـــوعــاتـــه ",
+      "ENG_DESC_1": "Copper and articles thereof",
+      "F2010": 4109508,
+      "F2011": 8269268,
+      "F2012": 1431687,
+      "F2013": 8778760,
+      "F2014": 3159310,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 75,
+      "ARB_DESC_1": "نيكــــــل ومصنوعاتــــــــــــه ",
+      "ENG_DESC_1": "Nickel and articles thereof",
+      "F2010": 84478,
+      "F2011": 0,
+      "F2012": 467,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 76,
+      "ARB_DESC_1": "ألومنيـــــــــوم ومصنوعاتــــــــــــه ",
+      "ENG_DESC_1": "Aluminium and articles thereof",
+      "F2010": 1879799,
+      "F2011": 2271021,
+      "F2012": 2393228,
+      "F2013": 1854431,
+      "F2014": 412224,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 78,
+      "ARB_DESC_1": "رصـــاص ومصنوعاتــة",
+      "ENG_DESC_1": "Lead and articles thereof",
+      "F2010": 169012,
+      "F2011": 0,
+      "F2012": 16372,
+      "F2013": 20043,
+      "F2014": 62986,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 79,
+      "ARB_DESC_1": "زنك ( توتياء ) ومصنوعاته",
+      "ENG_DESC_1": "Zinc and articles thereof",
+      "F2010": 7029,
+      "F2011": 45022,
+      "F2012": 108,
+      "F2013": 0,
+      "F2014": 3294,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 82,
+      "ARB_DESC_1": "عدد وأدوات سكاكين وملاعق وشوك ، من معادن عادية ؛ أجزاؤها من معادن عادية ",
+      "ENG_DESC_1": "Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",
+      "F2010": 30,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 83,
+      "ARB_DESC_1": "أصناف متنوعة من معادن عادية",
+      "ENG_DESC_1": "Miscellaneous articles of base metal",
+      "F2010": 46691,
+      "F2011": 55962,
+      "F2012": 36894,
+      "F2013": 12416,
+      "F2014": 51165,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 84,
+      "ARB_DESC_1": "مفاعلات نووية ومراجل وآلات وأجهزة وأدوات آلية ؛ أجزاؤها ",
+      "ENG_DESC_1": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+      "F2010": 235340,
+      "F2011": 244008,
+      "F2012": 172536,
+      "F2013": 340830,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 85,
+      "ARB_DESC_1": "آلات وأجهزة ومعدات كهربائية وأجزاؤها ؛ أجهزة تسجيل وإذاعة الصوت ، وأجهزة تسجيل وإذاعة الصوت والصورة في الإذاعة المرئية ( تلفزيون) وأجزاء ولوازم هذه الأجهزة ",
+      "ENG_DESC_1": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",
+      "F2010": 9376857,
+      "F2011": 11576466,
+      "F2012": 12099593,
+      "F2013": 15432124,
+      "F2014": 7240703,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 89,
+      "ARB_DESC_1": "سفن وقوارب ومنشآت عائمة ",
+      "ENG_DESC_1": "Ships, boats and floating structures",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 13191,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 90,
+      "ARB_DESC_1": "أدوات وأجهزة للبصريات أو للتصوير الفوتوغرافي أو السينمائي أو للقياس أو للفحص والضبط الدقيق ، أدوات وأجهزة للطب أو الجراحة ؛ أجزاء ولوازم هذه الأدوات والأجهزة ",
+      "ENG_DESC_1": "Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof",
+      "F2010": 200333,
+      "F2011": 556635,
+      "F2012": 11447,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 94,
+      "ARB_DESC_1": "أثاث ؛ أصناف أسرة (حشايا ، حوامل حشايا ، وسائد وأصناف محشوة مماثلة ) ؛ أجهزة إنارة غير مذكورة ولا داخلة في مكان آخر ؛ إشارات مضيئة ولوحات إعلانية أو إرشادية مضيئة وأصناف مماثلة ؛ مباني مسبقة الصنع ",
+      "ENG_DESC_1": "Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and Iighting fittings, not elsewhere specified or included;illuminated signs, illuminated name-plates and the like; prefabricated buildings",
+      "F2010": 1665410,
+      "F2011": 3913952,
+      "F2012": 2146869,
+      "F2013": 2846403,
+      "F2014": 1296456,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 95,
+      "ARB_DESC_1": "لعب اطفال وأصناف للتسلية أو للرياضة ، اجزاؤها ولوازمها ",
+      "ENG_DESC_1": "Toys, games and sports requisites; parts and accessories thereof",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 4000,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 96,
+      "ARB_DESC_1": "مصنوعــات متنوعــة ",
+      "ENG_DESC_1": "Miscellanous manufactured articles",
+      "F2010": 366677,
+      "F2011": 290101,
+      "F2012": 276982,
+      "F2013": 302969,
+      "F2014": 172920,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء السطان قابوس   ",
+      "Code": 6,
+      "HS_CHAP": 98,
+      "ARB_DESC_1": "سلع ذات إحكام خاصة",
+      "ENG_DESC_1": "Commodities Subject to Special Provisions",
+      "F2010": 87708,
+      "F2011": 42621,
+      "F2012": 46312,
+      "F2013": 150937,
+      "F2014": 134608,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": 21,
+      "ENG_DESC": "MINA SALALAH ",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 1,
+      "ARB_DESC_1": "حيوانات حية",
+      "ENG_DESC_1": "Live animals",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 36036,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 2,
+      "ARB_DESC_1": "لحوم وأحشاء وأطراف صالحة للأكل",
+      "ENG_DESC_1": "Meat and edible meat offal",
+      "F2010": 1294801,
+      "F2011": 70254,
+      "F2012": 510,
+      "F2013": 753,
+      "F2014": 0,
+      "F2015": 548,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 3,
+      "ARB_DESC_1": "أسمـاك وقشـريـات ، رخويــات وغيرهـا مـن الـلافقريــات المـائـية",
+      "ENG_DESC_1": "Fish and crustaceans, molluscs and other aquatic invertebrates",
+      "F2010": 1009818,
+      "F2011": 1644862,
+      "F2012": 1337518,
+      "F2013": 1348016,
+      "F2014": 3884679,
+      "F2015": 5048550,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 4,
+      "ARB_DESC_1": "ألبان ومنتجات صناعة الألبان ؛ بيض طيور ؛ عسل طبيعي ؛ منتجات صالحة للأكل من أصل حيواني ، غير مذكورة ولا داخلة في مكان آخر ",
+      "ENG_DESC_1": "Dairy produce; birds' eggs; natural honey; edible products of animal origin,not elsewhere specified or included",
+      "F2010": 3956572,
+      "F2011": 4558920,
+      "F2012": 8333548,
+      "F2013": 9346704,
+      "F2014": 16168135,
+      "F2015": 16492552,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 5,
+      "ARB_DESC_1": "منتجات أخر من أصل حيواني ، غير مذكورة ولا داخلة في مكان آخر ",
+      "ENG_DESC_1": "Products of animal origin,not elsewhere specified or included ",
+      "F2010": 0,
+      "F2011": 2185,
+      "F2012": 14432,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 6,
+      "ARB_DESC_1": "اشجار ونباتات أخر حية ؛ بصيلات وبصلات وجذور وما شابهها ؛ ازهار مقطوفة واغصان مورقة للزينة",
+      "ENG_DESC_1": "Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage",
+      "F2010": 20992,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 2811,
+      "F2014": 0,
+      "F2015": 7564,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 7,
+      "ARB_DESC_1": "خضر ونباتات وجذور ودرنات غذائية ، صالحة للأكل ",
+      "ENG_DESC_1": "Edible vegetables and certain roots and tubers",
+      "F2010": 16435,
+      "F2011": 3648,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 280,
+      "F2015": 750,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 8,
+      "ARB_DESC_1": "فواكه وأثمار صالحة للأكل ؛ قشور حمضيات وقشور بطيخ أو شمام ",
+      "ENG_DESC_1": "Edible fruit and nuts; peel of citrus fruit or melons",
+      "F2010": 25936,
+      "F2011": 621630,
+      "F2012": 612382,
+      "F2013": 888619,
+      "F2014": 722350,
+      "F2015": 1596070,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 9,
+      "ARB_DESC_1": "بن وشاي ومته وبهارات وتوابل ",
+      "ENG_DESC_1": "Coffee, tea, mate and spices",
+      "F2010": 1154,
+      "F2011": 1733,
+      "F2012": 8085,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 10,
+      "ARB_DESC_1": "حبوب",
+      "ENG_DESC_1": "Cereals",
+      "F2010": 64680,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 11,
+      "ARB_DESC_1": "منتجات مطاحن ؛ شعير ناشط (مالت) ؛ نشاء حبوب أو جذور أو درنات ؛ إينولين ؛ دابوق القمح (جلوتين) ",
+      "ENG_DESC_1": "Products of the milling industry; malt; starches; inulin; wheat gluten",
+      "F2010": 3896674,
+      "F2011": 6875107,
+      "F2012": 9361708,
+      "F2013": 12467537,
+      "F2014": 23561977,
+      "F2015": 19793351,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 12,
+      "ARB_DESC_1": "حبوب وبذور وأثمار زيتية ؛ حبوب وبذور وأثمار منوعة ؛ نباتات للصناعة  أو للطب ؛ قش وعلف ",
+      "ENG_DESC_1": "Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",
+      "F2010": 0,
+      "F2011": 51410,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 13,
+      "ARB_DESC_1": "صمغ اللك ؛ صموغ وراتنجات وغيرها من عصارات وخلاصات نباتية ",
+      "ENG_DESC_1": "Lac; gums, resins and other vegetable saps and extracts",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 600,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 770941,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 15,
+      "ARB_DESC_1": "شحوم ودهون وزيوت حيوانية أو نباتية ومنتجات تفككها ؛ دهون غذائية محضرة ؛  شموع من أصل حيوان أو نباتي ",
+      "ENG_DESC_1": "Animal or vegetable fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes",
+      "F2010": 4800036,
+      "F2011": 4866984,
+      "F2012": 3109400,
+      "F2013": 2662865,
+      "F2014": 6750797,
+      "F2015": 9218546,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 16,
+      "ARB_DESC_1": "محضرات لحوم وأسماك أو قشريات أو رخويات أو لافقريات مائية أخر ",
+      "ENG_DESC_1": "Preparations of meat, of fish or of crustaceans, molluscs or other aquatic invertebrates",
+      "F2010": 1180580,
+      "F2011": 2320031,
+      "F2012": 4983833,
+      "F2013": 3567592,
+      "F2014": 1251813,
+      "F2015": 1161836,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 17,
+      "ARB_DESC_1": "سكر ومصنوعات سكرية ",
+      "ENG_DESC_1": "Sugars and sugar confectionery",
+      "F2010": 0,
+      "F2011": 62401,
+      "F2012": 36960,
+      "F2013": 41356,
+      "F2014": 36066,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 18,
+      "ARB_DESC_1": "كاكاو ومحضراته ",
+      "ENG_DESC_1": "Cocoa and cocoa preparations",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 24233,
+      "F2013": 60563,
+      "F2014": 32665,
+      "F2015": 26219,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 19,
+      "ARB_DESC_1": "محضرات أساسها الحبوب أو الدقيق أو النشا أو الحليب ؛ فطائر",
+      "ENG_DESC_1": "Preparations of cereals, flour, starch or milk; pastrycooks' products",
+      "F2010": 7269385,
+      "F2011": 12858935,
+      "F2012": 18938345,
+      "F2013": 18493417,
+      "F2014": 22954382,
+      "F2015": 18507866,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 20,
+      "ARB_DESC_1": "محضرات خضر ، فواكه وأثمار أو محضرات من اجزاء أخرى من النباتات ",
+      "ENG_DESC_1": "Prepsrations of vegetables, fruit, nuts or other parts of plants",
+      "F2010": 5313739,
+      "F2011": 4023860,
+      "F2012": 5167097,
+      "F2013": 2812518,
+      "F2014": 7782459,
+      "F2015": 2968780,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 21,
+      "ARB_DESC_1": "محضرات غذائية منوعة ",
+      "ENG_DESC_1": "Miscellaneous edible preparations",
+      "F2010": 724,
+      "F2011": 42874,
+      "F2012": 59838,
+      "F2013": 12520,
+      "F2014": 30215,
+      "F2015": 52780,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 22,
+      "ARB_DESC_1": "مشروبات، سوائل كحولية وخل ",
+      "ENG_DESC_1": "Beverages, spirits and vinegar",
+      "F2010": 484569,
+      "F2011": 10747,
+      "F2012": 17472,
+      "F2013": 52705,
+      "F2014": 35928,
+      "F2015": 190501,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 23,
+      "ARB_DESC_1": "بقايا ونفايات صناعات الأغذية  أغذية محضرة للحيوانات ",
+      "ENG_DESC_1": "Residues and waste from the food industries; prepared animal fodder",
+      "F2010": 241729,
+      "F2011": 188737,
+      "F2012": 45710,
+      "F2013": 290928,
+      "F2014": 257659,
+      "F2015": 591648,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 25,
+      "ARB_DESC_1": "ملح ؛ كبريت ؛ أتربة  وأحجار ؛ جص ؛ كلس وأسمنت ",
+      "ENG_DESC_1": "Salt; sulphur; earths and stone; plastering materials, lime and cement",
+      "F2010": 23761373,
+      "F2011": 25395238,
+      "F2012": 21775134,
+      "F2013": 28675622,
+      "F2014": 33330281,
+      "F2015": 37134342,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 27,
+      "ARB_DESC_1": "وقود معدني ، زيوت معدنية ومنتجات تقطيرها ؛ مواد قارية ؛ شموع معدنية",
+      "ENG_DESC_1": "Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",
+      "F2010": 437807,
+      "F2011": 650072,
+      "F2012": 715744,
+      "F2013": 427749,
+      "F2014": 360890,
+      "F2015": 314016,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 28,
+      "ARB_DESC_1": "منتجات كيماوية غير عضوية ؛ مركبات عضوية أو غير عضوية من معادن ثمينة أو من معادن أتربه نادرة أو من عناصر مشعة أو من نظائر ايزوتوب ",
+      "ENG_DESC_1": "Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals,of radioactive elements or of isotopes",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 9124,
+      "F2014": 14494,
+      "F2015": 94823,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 29,
+      "ARB_DESC_1": "منتجات كيماوية عضوية",
+      "ENG_DESC_1": "Organic chemicals",
+      "F2010": 57996293,
+      "F2011": 112928780,
+      "F2012": 108983421,
+      "F2013": 106447657,
+      "F2014": 144157412,
+      "F2015": 120182811,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 30,
+      "ARB_DESC_1": "منتجات الصيدلية ",
+      "ENG_DESC_1": "Pharmaceutical products",
+      "F2010": 1238770,
+      "F2011": 1408487,
+      "F2012": 2752889,
+      "F2013": 4271661,
+      "F2014": 7161725,
+      "F2015": 6811899,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 32,
+      "ARB_DESC_1": "خلاصات للدباغة والصباغة ؛ مواد دابغة ومشتقاتها أصباغ ، ألوان سطحية (بيجمنت) ومواد ملونة أخر ؛ دهانات وورنيش ؛ معاجين ؛ حبر",
+      "ENG_DESC_1": "Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints and varnishes; putty and other mastics; inks ",
+      "F2010": 17355,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 10800,
+      "F2015": 120708,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 33,
+      "ARB_DESC_1": "زيوت عطرية ومستخلصات مواد راتنجية (رزينويد) ؛ محضرات عطور أو تطرية (كوزماتيك) أو تجميل (تواليت)",
+      "ENG_DESC_1": "Essential oils and resinoids; perfumery, cosmetic or toilet preparations",
+      "F2010": 14263,
+      "F2011": 22968,
+      "F2012": 220,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 19473,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 34,
+      "ARB_DESC_1": " صابون، وعوامل سطح عضوية (غواسل عضوية)  ومحضرات غسيل ومحضرات تشحيم وشموع اصطناعية  وشموع محضرة ومحضرات صقل أو تلميع وشموع إضاءة وأصناف مماثلة  ومعاجين لصنع النماذج وشموع طب الأسنان ومحضرات طب الأسنان أساسها الجص",
+      "ENG_DESC_1": "Soap, organic surface-active agents, washing preparations,lubricating preparations, artificial waxes, prepared waxes polishing or scouring preparations, candles and similar articles, modelling pastes, \" dental waxes, and dental preparations with a basis o",
+      "F2010": 10601,
+      "F2011": 22558,
+      "F2012": 46373,
+      "F2013": 17692,
+      "F2014": 38367,
+      "F2015": 38025,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 38,
+      "ARB_DESC_1": "منتجــــــات كيماويــــــــة منوعـــــــة",
+      "ENG_DESC_1": "Miscellaneous chemical products",
+      "F2010": 11258,
+      "F2011": 0,
+      "F2012": 60287,
+      "F2013": 2750,
+      "F2014": 14428,
+      "F2015": 15765,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 39,
+      "ARB_DESC_1": " لدائـــــــــــــــــن ومصنوعاتهــــــــــــــــــــا",
+      "ENG_DESC_1": "Plastics and articles thereof",
+      "F2010": 112520127,
+      "F2011": 115040521,
+      "F2012": 69839204,
+      "F2013": 138857595,
+      "F2014": 174836450,
+      "F2015": 114650156,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 40,
+      "ARB_DESC_1": "مطـاط ومصنوعـاته ",
+      "ENG_DESC_1": "Rubber and articles thereof",
+      "F2010": 129762,
+      "F2011": 281380,
+      "F2012": 364214,
+      "F2013": 931872,
+      "F2014": 1067021,
+      "F2015": 842729,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 41,
+      "ARB_DESC_1": "صلال وجلود خام (عدا جلود الفراء) وجلود مدبوغة",
+      "ENG_DESC_1": "Raw hides and skins (other than furskins) and leather",
+      "F2010": 23272,
+      "F2011": 41226,
+      "F2012": 90888,
+      "F2013": 203854,
+      "F2014": 197978,
+      "F2015": 159715,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 42,
+      "ARB_DESC_1": "مصنوعات من جلد ؛ أصناف عدة الحيوانات والسراجة ؛ لوازم السفر ؛ حقائب يدوية وأوعية مماثلة لها ؛ مصنوعات من مصارين الحيوانات (عدا مصارين دودة القز) ",
+      "ENG_DESC_1": "Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 5551,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 44,
+      "ARB_DESC_1": "خشب ومصنوعاته ؛ فحم خشبي   ",
+      "ENG_DESC_1": "Wood and articles of wood; wood charcoal",
+      "F2010": 0,
+      "F2011": 119667,
+      "F2012": 558,
+      "F2013": 50871,
+      "F2014": 13506,
+      "F2015": 404415,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 45,
+      "ARB_DESC_1": "فليــن ومصنوعــاتـه ",
+      "ENG_DESC_1": "Cork and articles of cork",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 1200,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 46,
+      "ARB_DESC_1": "مصنوعات من القش أو الحلفا أو غيرها من مواد الضفر ؛ أصناف صناعتي الحصر والسلال ",
+      "ENG_DESC_1": "Msnufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 29438,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 47,
+      "ARB_DESC_1": "عجائن من خشب أو مواد ليفية سليلوزية أخر ؛ ورق و ورق مقوى (نفايا وفضلات ) بغرض إعادة التصنيع ",
+      "ENG_DESC_1": "Pulp of wood or of other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 340,
+      "F2013": 120,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 48,
+      "ARB_DESC_1": "ورق وورق مقوى (كرتون) ؛ مصنوعات من عجينة السيليلوز أو من ورق أو من ورق مقوى ",
+      "ENG_DESC_1": "Paper and paperboard; articles of paper pulp, of paper or of paperboard",
+      "F2010": 185,
+      "F2011": 24544,
+      "F2012": 89336,
+      "F2013": 50267,
+      "F2014": 415613,
+      "F2015": 333803,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 54,
+      "ARB_DESC_1": "شعيـرات تـركيبيـة أو أصطنـاعيـة؛ قدد و أشكال مماثلة من مواد نسجية تركيبية أو اصطناعية",
+      "ENG_DESC_1": "Man-made filaments; strip and the like of man-made textile materials",
+      "F2010": 110954,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 56,
+      "ARB_DESC_1": "حشـو ، لبـاد ولا منسـوجات ؛ خيوط خـاصة ؛ خيوط حزم وحبـال وأمراس وأصناف مصنوعة منها ",
+      "ENG_DESC_1": "Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",
+      "F2010": 32276,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 5236,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 57,
+      "ARB_DESC_1": "سجــاد وأغطيـة أرضيـات أخــر مـن مـواد نسجـية ",
+      "ENG_DESC_1": "Carpets and other textile floor coverings",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 47367,
+      "F2013": 73431,
+      "F2014": 14987,
+      "F2015": 79072,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 60,
+      "ARB_DESC_1": "أقمشة مصنـرة أو كـروشـية",
+      "ENG_DESC_1": "Knitted or crocheted fabrics",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 24024,
+      "F2014": 0,
+      "F2015": 159685,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 61,
+      "ARB_DESC_1": "ألبسة وتوابع ألبسة من مصنرات أو كروشية ",
+      "ENG_DESC_1": "Articles of apparel and clothing accessories, knitted or crocheted",
+      "F2010": 0,
+      "F2011": 214164,
+      "F2012": 0,
+      "F2013": 605234,
+      "F2014": 793774,
+      "F2015": 1678329,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 62,
+      "ARB_DESC_1": "ألبسة وتوابع ألبسة ، من غير المصنرات أو الكروشية",
+      "ENG_DESC_1": "Articles of apparel and clothing accessories, not knitted or crocheted",
+      "F2010": 43520,
+      "F2011": 379490,
+      "F2012": 400761,
+      "F2013": 556767,
+      "F2014": 380566,
+      "F2015": 496780,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 63,
+      "ARB_DESC_1": "أصناف أخر جاهزة من مواد نسجية ؛ مجموعات (أطقم ) ؛ ألبسة مستعملة وأصناف نسجية مستعملة ؛ أسمال وخرق",
+      "ENG_DESC_1": "Other made up textile articles; sets; worn clothing and worn textile articles; rags",
+      "F2010": 0,
+      "F2011": 500,
+      "F2012": 324684,
+      "F2013": 142171,
+      "F2014": 165642,
+      "F2015": 74657,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 64,
+      "ARB_DESC_1": "أحذية وطماقات وما يماثلها ؛ أجزاء هذه الأصناف ",
+      "ENG_DESC_1": "Footwear, gaiters and the like; parts of such articles",
+      "F2010": 2424,
+      "F2011": 0,
+      "F2012": 10126,
+      "F2013": 29675,
+      "F2014": 0,
+      "F2015": 27069,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 65,
+      "ARB_DESC_1": "أغطيــة رأس وأجزاؤهــا",
+      "ENG_DESC_1": "Headgear and parts thereof",
+      "F2010": 71,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 61,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 68,
+      "ARB_DESC_1": "مصنوعات من حجر أو جص أو إسمنت أو حرير صخري (اسبستوس) أو ميكا أو من مواد مماثلة ",
+      "ENG_DESC_1": "Articles of stone, plaster, cement, asbestos, mica or similar materials",
+      "F2010": 21969,
+      "F2011": 31832,
+      "F2012": 86166,
+      "F2013": 763838,
+      "F2014": 4648149,
+      "F2015": 7966527,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 69,
+      "ARB_DESC_1": "منتجــات مــن خـــزف ",
+      "ENG_DESC_1": "Ceramic products",
+      "F2010": 0,
+      "F2011": 14658,
+      "F2012": 10226,
+      "F2013": 2843,
+      "F2014": 35729,
+      "F2015": 8325,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 70,
+      "ARB_DESC_1": "زجـــــاج ومصنوعـــاته ",
+      "ENG_DESC_1": "Glass and glassware",
+      "F2010": 342762,
+      "F2011": 572230,
+      "F2012": 550947,
+      "F2013": 1476264,
+      "F2014": 443303,
+      "F2015": 1762038,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 72,
+      "ARB_DESC_1": "الحديد والصلب (فولاذ) ",
+      "ENG_DESC_1": "Iron and steel",
+      "F2010": 600470,
+      "F2011": 66795,
+      "F2012": 25311,
+      "F2013": 312926,
+      "F2014": 311533,
+      "F2015": 318599,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 73,
+      "ARB_DESC_1": "مصنوعات من حديد أو صب (فولاذ) ",
+      "ENG_DESC_1": "Articles of iron or steel",
+      "F2010": 9467277,
+      "F2011": 15718691,
+      "F2012": 21738093,
+      "F2013": 22987180,
+      "F2014": 6307903,
+      "F2015": 7577220,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 74,
+      "ARB_DESC_1": "نحـــاس ومصنـــوعــاتـــه ",
+      "ENG_DESC_1": "Copper and articles thereof",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 9200,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 75,
+      "ARB_DESC_1": "نيكــــــل ومصنوعاتــــــــــــه ",
+      "ENG_DESC_1": "Nickel and articles thereof",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 82730,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 76,
+      "ARB_DESC_1": "ألومنيـــــــــوم ومصنوعاتــــــــــــه ",
+      "ENG_DESC_1": "Aluminium and articles thereof",
+      "F2010": 66245,
+      "F2011": 49847,
+      "F2012": 197414,
+      "F2013": 829009,
+      "F2014": 923725,
+      "F2015": 492919,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 78,
+      "ARB_DESC_1": "رصـــاص ومصنوعاتــة",
+      "ENG_DESC_1": "Lead and articles thereof",
+      "F2010": 39019,
+      "F2011": 0,
+      "F2012": 33688,
+      "F2013": 105830,
+      "F2014": 265677,
+      "F2015": 85511,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 82,
+      "ARB_DESC_1": "عدد وأدوات سكاكين وملاعق وشوك ، من معادن عادية ؛ أجزاؤها من معادن عادية ",
+      "ENG_DESC_1": "Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",
+      "F2010": 7268,
+      "F2011": 0,
+      "F2012": 10886,
+      "F2013": 0,
+      "F2014": 1905,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 83,
+      "ARB_DESC_1": "أصناف متنوعة من معادن عادية",
+      "ENG_DESC_1": "Miscellaneous articles of base metal",
+      "F2010": 43,
+      "F2011": 0,
+      "F2012": 300,
+      "F2013": 0,
+      "F2014": 10,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 84,
+      "ARB_DESC_1": "مفاعلات نووية ومراجل وآلات وأجهزة وأدوات آلية ؛ أجزاؤها ",
+      "ENG_DESC_1": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+      "F2010": 91016,
+      "F2011": 835,
+      "F2012": 8200,
+      "F2013": 9750,
+      "F2014": 4620,
+      "F2015": 3270,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 85,
+      "ARB_DESC_1": "آلات وأجهزة ومعدات كهربائية وأجزاؤها ؛ أجهزة تسجيل وإذاعة الصوت ، وأجهزة تسجيل وإذاعة الصوت والصورة في الإذاعة المرئية ( تلفزيون) وأجزاء ولوازم هذه الأجهزة ",
+      "ENG_DESC_1": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",
+      "F2010": 96433,
+      "F2011": 201297,
+      "F2012": 300391,
+      "F2013": 35921,
+      "F2014": 106270,
+      "F2015": 553553,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 86,
+      "ARB_DESC_1": "قاطرات وعربات ومعدات للسكك الحديدية أو ما يماثلها وأجزاؤها مثبتات ولوازم خطوط السكك الحديدية وأجزاؤها؛ أجهزة إشارة آلية (بما فيها كهروآليه) لطرق الموصلات من جميع الأنواع",
+      "ENG_DESC_1": "Railway or tramway locomotives, rolling-stock and parts thereof; rallway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",
+      "F2010": 385,
+      "F2011": 0,
+      "F2012": 385,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 89,
+      "ARB_DESC_1": "سفن وقوارب ومنشآت عائمة ",
+      "ENG_DESC_1": "Ships, boats and floating structures",
+      "F2010": 20000,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 14776,
+      "F2014": 11500,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 90,
+      "ARB_DESC_1": "أدوات وأجهزة للبصريات أو للتصوير الفوتوغرافي أو السينمائي أو للقياس أو للفحص والضبط الدقيق ، أدوات وأجهزة للطب أو الجراحة ؛ أجزاء ولوازم هذه الأدوات والأجهزة ",
+      "ENG_DESC_1": "Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof",
+      "F2010": 0,
+      "F2011": 2454,
+      "F2012": 0,
+      "F2013": 19271,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 94,
+      "ARB_DESC_1": "أثاث ؛ أصناف أسرة (حشايا ، حوامل حشايا ، وسائد وأصناف محشوة مماثلة ) ؛ أجهزة إنارة غير مذكورة ولا داخلة في مكان آخر ؛ إشارات مضيئة ولوحات إعلانية أو إرشادية مضيئة وأصناف مماثلة ؛ مباني مسبقة الصنع ",
+      "ENG_DESC_1": "Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and Iighting fittings, not elsewhere specified or included;illuminated signs, illuminated name-plates and the like; prefabricated buildings",
+      "F2010": 7118,
+      "F2011": 33174,
+      "F2012": 63082,
+      "F2013": 75504,
+      "F2014": 181421,
+      "F2015": 565009,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 96,
+      "ARB_DESC_1": "مصنوعــات متنوعــة ",
+      "ENG_DESC_1": "Miscellanous manufactured articles",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 4900,
+      "F2015": 36150,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 97,
+      "ARB_DESC_1": "تحف فنية ، قطع للمجموعات وقطع أثرية ",
+      "ENG_DESC_1": "Works of art, collectors' pieces and antiques",
+      "F2010": 0,
+      "F2011": 5005,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "ميناء صلالة",
+      "Code": 4,
+      "HS_CHAP": 98,
+      "ARB_DESC_1": "سلع ذات إحكام خاصة",
+      "ENG_DESC_1": "Commodities Subject to Special Provisions",
+      "F2010": 5580,
+      "F2011": 7115,
+      "F2012": 5400,
+      "F2013": 6882,
+      "F2014": 2120,
+      "F2015": 9316,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": 26,
+      "ENG_DESC": "SALALAH AIRPORT (CARGO)",
+      "ARB_DESC": "مطار صلاله   الشحن ",
+      "Code": 21,
+      "HS_CHAP": 2,
+      "ARB_DESC_1": "لحوم وأحشاء وأطراف صالحة للأكل",
+      "ENG_DESC_1": "Meat and edible meat offal",
+      "F2010": 0,
+      "F2011": 3816,
+      "F2012": 0,
+      "F2013": 90,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "مطار صلاله   الشحن ",
+      "Code": 21,
+      "HS_CHAP": 3,
+      "ARB_DESC_1": "أسمـاك وقشـريـات ، رخويــات وغيرهـا مـن الـلافقريــات المـائـية",
+      "ENG_DESC_1": "Fish and crustaceans, molluscs and other aquatic invertebrates",
+      "F2010": 150066,
+      "F2011": 3772922,
+      "F2012": 1644392,
+      "F2013": 796378,
+      "F2014": 440138,
+      "F2015": 940130,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "مطار صلاله   الشحن ",
+      "Code": 21,
+      "HS_CHAP": 4,
+      "ARB_DESC_1": "ألبان ومنتجات صناعة الألبان ؛ بيض طيور ؛ عسل طبيعي ؛ منتجات صالحة للأكل من أصل حيواني ، غير مذكورة ولا داخلة في مكان آخر ",
+      "ENG_DESC_1": "Dairy produce; birds' eggs; natural honey; edible products of animal origin,not elsewhere specified or included",
+      "F2010": 150,
+      "F2011": 0,
+      "F2012": 100,
+      "F2013": 200,
+      "F2014": 495,
+      "F2015": 650,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "مطار صلاله   الشحن ",
+      "Code": 21,
+      "HS_CHAP": 5,
+      "ARB_DESC_1": "منتجات أخر من أصل حيواني ، غير مذكورة ولا داخلة في مكان آخر ",
+      "ENG_DESC_1": "Products of animal origin,not elsewhere specified or included ",
+      "F2010": 400,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "مطار صلاله   الشحن ",
+      "Code": 21,
+      "HS_CHAP": 7,
+      "ARB_DESC_1": "خضر ونباتات وجذور ودرنات غذائية ، صالحة للأكل ",
+      "ENG_DESC_1": "Edible vegetables and certain roots and tubers",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 250,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "مطار صلاله   الشحن ",
+      "Code": 21,
+      "HS_CHAP": 8,
+      "ARB_DESC_1": "فواكه وأثمار صالحة للأكل ؛ قشور حمضيات وقشور بطيخ أو شمام ",
+      "ENG_DESC_1": "Edible fruit and nuts; peel of citrus fruit or melons",
+      "F2010": 0,
+      "F2011": 45,
+      "F2012": 0,
+      "F2013": 72,
+      "F2014": 600,
+      "F2015": 46,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "مطار صلاله   الشحن ",
+      "Code": 21,
+      "HS_CHAP": 13,
+      "ARB_DESC_1": "صمغ اللك ؛ صموغ وراتنجات وغيرها من عصارات وخلاصات نباتية ",
+      "ENG_DESC_1": "Lac; gums, resins and other vegetable saps and extracts",
+      "F2010": 0,
+      "F2011": 131,
+      "F2012": 80,
+      "F2013": 2690,
+      "F2014": 230,
+      "F2015": 6158,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "مطار صلاله   الشحن ",
+      "Code": 21,
+      "HS_CHAP": 14,
+      "ARB_DESC_1": "مواد ضفر نباتية ؛ منتجات أخر من أصل نباتي غير مذكور ولا داخلة في مكان آخر ",
+      "ENG_DESC_1": "Vegetable plaiting materials; vegetable products not elsewhere specified or included",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 100,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "مطار صلاله   الشحن ",
+      "Code": 21,
+      "HS_CHAP": 16,
+      "ARB_DESC_1": "محضرات لحوم وأسماك أو قشريات أو رخويات أو لافقريات مائية أخر ",
+      "ENG_DESC_1": "Preparations of meat, of fish or of crustaceans, molluscs or other aquatic invertebrates",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 60,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "مطار صلاله   الشحن ",
+      "Code": 21,
+      "HS_CHAP": 17,
+      "ARB_DESC_1": "سكر ومصنوعات سكرية ",
+      "ENG_DESC_1": "Sugars and sugar confectionery",
+      "F2010": 0,
+      "F2011": 86,
+      "F2012": 125,
+      "F2013": 610,
+      "F2014": 1385,
+      "F2015": 150,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "مطار صلاله   الشحن ",
+      "Code": 21,
+      "HS_CHAP": 25,
+      "ARB_DESC_1": "ملح ؛ كبريت ؛ أتربة  وأحجار ؛ جص ؛ كلس وأسمنت ",
+      "ENG_DESC_1": "Salt; sulphur; earths and stone; plastering materials, lime and cement",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 200,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "مطار صلاله   الشحن ",
+      "Code": 21,
+      "HS_CHAP": 27,
+      "ARB_DESC_1": "وقود معدني ، زيوت معدنية ومنتجات تقطيرها ؛ مواد قارية ؛ شموع معدنية",
+      "ENG_DESC_1": "Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",
+      "F2010": 0,
+      "F2011": 61,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "مطار صلاله   الشحن ",
+      "Code": 21,
+      "HS_CHAP": 30,
+      "ARB_DESC_1": "منتجات الصيدلية ",
+      "ENG_DESC_1": "Pharmaceutical products",
+      "F2010": 126880,
+      "F2011": 93909,
+      "F2012": 666484,
+      "F2013": 33312,
+      "F2014": 59367,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "مطار صلاله   الشحن ",
+      "Code": 21,
+      "HS_CHAP": 33,
+      "ARB_DESC_1": "زيوت عطرية ومستخلصات مواد راتنجية (رزينويد) ؛ محضرات عطور أو تطرية (كوزماتيك) أو تجميل (تواليت)",
+      "ENG_DESC_1": "Essential oils and resinoids; perfumery, cosmetic or toilet preparations",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 800,
+      "F2013": 5945,
+      "F2014": 4497,
+      "F2015": 6090,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "مطار صلاله   الشحن ",
+      "Code": 21,
+      "HS_CHAP": 39,
+      "ARB_DESC_1": " لدائـــــــــــــــــن ومصنوعاتهــــــــــــــــــــا",
+      "ENG_DESC_1": "Plastics and articles thereof",
+      "F2010": 1414,
+      "F2011": 0,
+      "F2012": 890,
+      "F2013": 325,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "مطار صلاله   الشحن ",
+      "Code": 21,
+      "HS_CHAP": 40,
+      "ARB_DESC_1": "مطـاط ومصنوعـاته ",
+      "ENG_DESC_1": "Rubber and articles thereof",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 2340,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "مطار صلاله   الشحن ",
+      "Code": 21,
+      "HS_CHAP": 41,
+      "ARB_DESC_1": "صلال وجلود خام (عدا جلود الفراء) وجلود مدبوغة",
+      "ENG_DESC_1": "Raw hides and skins (other than furskins) and leather",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 83,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "مطار صلاله   الشحن ",
+      "Code": 21,
+      "HS_CHAP": 44,
+      "ARB_DESC_1": "خشب ومصنوعاته ؛ فحم خشبي   ",
+      "ENG_DESC_1": "Wood and articles of wood; wood charcoal",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 1028,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "مطار صلاله   الشحن ",
+      "Code": 21,
+      "HS_CHAP": 48,
+      "ARB_DESC_1": "ورق وورق مقوى (كرتون) ؛ مصنوعات من عجينة السيليلوز أو من ورق أو من ورق مقوى ",
+      "ENG_DESC_1": "Paper and paperboard; articles of paper pulp, of paper or of paperboard",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 1153,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "مطار صلاله   الشحن ",
+      "Code": 21,
+      "HS_CHAP": 49,
+      "ARB_DESC_1": "كتب ، صحف ، صور وغيرها من منتجات الطباعة والنشر ؛ مخطوطاتن يدوية ، مستنسخات وتصاميم ",
+      "ENG_DESC_1": "Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",
+      "F2010": 0,
+      "F2011": 360,
+      "F2012": 690,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "مطار صلاله   الشحن ",
+      "Code": 21,
+      "HS_CHAP": 61,
+      "ARB_DESC_1": "ألبسة وتوابع ألبسة من مصنرات أو كروشية ",
+      "ENG_DESC_1": "Articles of apparel and clothing accessories, knitted or crocheted",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 783,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "مطار صلاله   الشحن ",
+      "Code": 21,
+      "HS_CHAP": 62,
+      "ARB_DESC_1": "ألبسة وتوابع ألبسة ، من غير المصنرات أو الكروشية",
+      "ENG_DESC_1": "Articles of apparel and clothing accessories, not knitted or crocheted",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 80,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "مطار صلاله   الشحن ",
+      "Code": 21,
+      "HS_CHAP": 63,
+      "ARB_DESC_1": "أصناف أخر جاهزة من مواد نسجية ؛ مجموعات (أطقم ) ؛ ألبسة مستعملة وأصناف نسجية مستعملة ؛ أسمال وخرق",
+      "ENG_DESC_1": "Other made up textile articles; sets; worn clothing and worn textile articles; rags",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 40,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "مطار صلاله   الشحن ",
+      "Code": 21,
+      "HS_CHAP": 66,
+      "ARB_DESC_1": "مظلات مطر ، مظلات شمس ، عصي ، عصي بقاعدة ، سياط ، وسياط الفروسية ، وأجزاء هذه الأصناف ",
+      "ENG_DESC_1": "Umbrellas, sun umbrellas, walking-sticks, seat-sticks, whips, riding-crops and parts thereof",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 2000,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "مطار صلاله   الشحن ",
+      "Code": 21,
+      "HS_CHAP": 68,
+      "ARB_DESC_1": "مصنوعات من حجر أو جص أو إسمنت أو حرير صخري (اسبستوس) أو ميكا أو من مواد مماثلة ",
+      "ENG_DESC_1": "Articles of stone, plaster, cement, asbestos, mica or similar materials",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 120,
+      "F2013": 0,
+      "F2014": 187,
+      "F2015": 1000,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "مطار صلاله   الشحن ",
+      "Code": 21,
+      "HS_CHAP": 69,
+      "ARB_DESC_1": "منتجــات مــن خـــزف ",
+      "ENG_DESC_1": "Ceramic products",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 273,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "مطار صلاله   الشحن ",
+      "Code": 21,
+      "HS_CHAP": 71,
+      "ARB_DESC_1": "لؤلؤ طبيعي أو مستنبت ، أحجار كريمة أوشبه كريمة ، معادن ثمينة ، معادن عادية مكسوة بقشرة من معادن ثمينة ، مصنوعات من هذه المواد ؛ حلي الغواية (مقلدة ) ؛ نقود",
+      "ENG_DESC_1": " Natural or cultured pearls, precious or semi-precious stones precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",
+      "F2010": 63349,
+      "F2011": 0,
+      "F2012": 71995,
+      "F2013": 40833,
+      "F2014": 51150,
+      "F2015": 36100,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "مطار صلاله   الشحن ",
+      "Code": 21,
+      "HS_CHAP": 98,
+      "ARB_DESC_1": "سلع ذات إحكام خاصة",
+      "ENG_DESC_1": "Commodities Subject to Special Provisions",
+      "F2010": 0,
+      "F2011": 1000,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 3845,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": 36,
+      "ENG_DESC": "AL.WAJAJAH ",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 1,
+      "ARB_DESC_1": "حيوانات حية",
+      "ENG_DESC_1": "Live animals",
+      "F2010": 407207,
+      "F2011": 2200,
+      "F2012": 18536,
+      "F2013": 35825,
+      "F2014": 14540,
+      "F2015": 54630,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 2,
+      "ARB_DESC_1": "لحوم وأحشاء وأطراف صالحة للأكل",
+      "ENG_DESC_1": "Meat and edible meat offal",
+      "F2010": 9311528,
+      "F2011": 8028109,
+      "F2012": 9074239,
+      "F2013": 7638906,
+      "F2014": 7178082,
+      "F2015": 14562460,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 3,
+      "ARB_DESC_1": "أسمـاك وقشـريـات ، رخويــات وغيرهـا مـن الـلافقريــات المـائـية",
+      "ENG_DESC_1": "Fish and crustaceans, molluscs and other aquatic invertebrates",
+      "F2010": 16130613,
+      "F2011": 14264725,
+      "F2012": 10219985,
+      "F2013": 7951058,
+      "F2014": 4772813,
+      "F2015": 5056160,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 4,
+      "ARB_DESC_1": "ألبان ومنتجات صناعة الألبان ؛ بيض طيور ؛ عسل طبيعي ؛ منتجات صالحة للأكل من أصل حيواني ، غير مذكورة ولا داخلة في مكان آخر ",
+      "ENG_DESC_1": "Dairy produce; birds' eggs; natural honey; edible products of animal origin,not elsewhere specified or included",
+      "F2010": 14853452,
+      "F2011": 16793984,
+      "F2012": 20605320,
+      "F2013": 20872725,
+      "F2014": 23890608,
+      "F2015": 19116615,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 5,
+      "ARB_DESC_1": "منتجات أخر من أصل حيواني ، غير مذكورة ولا داخلة في مكان آخر ",
+      "ENG_DESC_1": "Products of animal origin,not elsewhere specified or included ",
+      "F2010": 0,
+      "F2011": 400,
+      "F2012": 0,
+      "F2013": 2850,
+      "F2014": 10346,
+      "F2015": 210,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 6,
+      "ARB_DESC_1": "اشجار ونباتات أخر حية ؛ بصيلات وبصلات وجذور وما شابهها ؛ ازهار مقطوفة واغصان مورقة للزينة",
+      "ENG_DESC_1": "Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage",
+      "F2010": 1660,
+      "F2011": 4790,
+      "F2012": 1660,
+      "F2013": 68600,
+      "F2014": 26918,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 7,
+      "ARB_DESC_1": "خضر ونباتات وجذور ودرنات غذائية ، صالحة للأكل ",
+      "ENG_DESC_1": "Edible vegetables and certain roots and tubers",
+      "F2010": 9188605,
+      "F2011": 13462570,
+      "F2012": 15979496,
+      "F2013": 14711176,
+      "F2014": 15351997,
+      "F2015": 14339255,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 8,
+      "ARB_DESC_1": "فواكه وأثمار صالحة للأكل ؛ قشور حمضيات وقشور بطيخ أو شمام ",
+      "ENG_DESC_1": "Edible fruit and nuts; peel of citrus fruit or melons",
+      "F2010": 3456115,
+      "F2011": 4413053,
+      "F2012": 4753086,
+      "F2013": 3616311,
+      "F2014": 3298191,
+      "F2015": 1643588,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 9,
+      "ARB_DESC_1": "بن وشاي ومته وبهارات وتوابل ",
+      "ENG_DESC_1": "Coffee, tea, mate and spices",
+      "F2010": 7441,
+      "F2011": 73204,
+      "F2012": 118823,
+      "F2013": 172530,
+      "F2014": 137182,
+      "F2015": 112672,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 10,
+      "ARB_DESC_1": "حبوب",
+      "ENG_DESC_1": "Cereals",
+      "F2010": 444642,
+      "F2011": 665395,
+      "F2012": 360296,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 11,
+      "ARB_DESC_1": "منتجات مطاحن ؛ شعير ناشط (مالت) ؛ نشاء حبوب أو جذور أو درنات ؛ إينولين ؛ دابوق القمح (جلوتين) ",
+      "ENG_DESC_1": "Products of the milling industry; malt; starches; inulin; wheat gluten",
+      "F2010": 434392,
+      "F2011": 651028,
+      "F2012": 679356,
+      "F2013": 55648175,
+      "F2014": 634520,
+      "F2015": 387168,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 12,
+      "ARB_DESC_1": "حبوب وبذور وأثمار زيتية ؛ حبوب وبذور وأثمار منوعة ؛ نباتات للصناعة  أو للطب ؛ قش وعلف ",
+      "ENG_DESC_1": "Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder",
+      "F2010": 143712,
+      "F2011": 422793,
+      "F2012": 371015,
+      "F2013": 146936,
+      "F2014": 63970,
+      "F2015": 55365,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 13,
+      "ARB_DESC_1": "صمغ اللك ؛ صموغ وراتنجات وغيرها من عصارات وخلاصات نباتية ",
+      "ENG_DESC_1": "Lac; gums, resins and other vegetable saps and extracts",
+      "F2010": 0,
+      "F2011": 3750,
+      "F2012": 9397,
+      "F2013": 8300,
+      "F2014": 0,
+      "F2015": 200,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 14,
+      "ARB_DESC_1": "مواد ضفر نباتية ؛ منتجات أخر من أصل نباتي غير مذكور ولا داخلة في مكان آخر ",
+      "ENG_DESC_1": "Vegetable plaiting materials; vegetable products not elsewhere specified or included",
+      "F2010": 293350,
+      "F2011": 53196,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 15,
+      "ARB_DESC_1": "شحوم ودهون وزيوت حيوانية أو نباتية ومنتجات تفككها ؛ دهون غذائية محضرة ؛  شموع من أصل حيوان أو نباتي ",
+      "ENG_DESC_1": "Animal or vegetable fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes",
+      "F2010": 15772813,
+      "F2011": 16357068,
+      "F2012": 14390008,
+      "F2013": 19422401,
+      "F2014": 21857625,
+      "F2015": 21540079,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 16,
+      "ARB_DESC_1": "محضرات لحوم وأسماك أو قشريات أو رخويات أو لافقريات مائية أخر ",
+      "ENG_DESC_1": "Preparations of meat, of fish or of crustaceans, molluscs or other aquatic invertebrates",
+      "F2010": 179161,
+      "F2011": 166116,
+      "F2012": 55619,
+      "F2013": 282202,
+      "F2014": 105082,
+      "F2015": 90283,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 17,
+      "ARB_DESC_1": "سكر ومصنوعات سكرية ",
+      "ENG_DESC_1": "Sugars and sugar confectionery",
+      "F2010": 83118,
+      "F2011": 13703,
+      "F2012": 41544,
+      "F2013": 36669,
+      "F2014": 45593,
+      "F2015": 132794,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 18,
+      "ARB_DESC_1": "كاكاو ومحضراته ",
+      "ENG_DESC_1": "Cocoa and cocoa preparations",
+      "F2010": 849608,
+      "F2011": 612806,
+      "F2012": 171245,
+      "F2013": 32598,
+      "F2014": 19067,
+      "F2015": 600,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 19,
+      "ARB_DESC_1": "محضرات أساسها الحبوب أو الدقيق أو النشا أو الحليب ؛ فطائر",
+      "ENG_DESC_1": "Preparations of cereals, flour, starch or milk; pastrycooks' products",
+      "F2010": 10400245,
+      "F2011": 11357781,
+      "F2012": 16390222,
+      "F2013": 10547877,
+      "F2014": 12907109,
+      "F2015": 19088547,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 20,
+      "ARB_DESC_1": "محضرات خضر ، فواكه وأثمار أو محضرات من اجزاء أخرى من النباتات ",
+      "ENG_DESC_1": "Prepsrations of vegetables, fruit, nuts or other parts of plants",
+      "F2010": 1035763,
+      "F2011": 1200296,
+      "F2012": 1073957,
+      "F2013": 1368628,
+      "F2014": 1477954,
+      "F2015": 1602498,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 21,
+      "ARB_DESC_1": "محضرات غذائية منوعة ",
+      "ENG_DESC_1": "Miscellaneous edible preparations",
+      "F2010": 1511784,
+      "F2011": 1425181,
+      "F2012": 1687456,
+      "F2013": 2246517,
+      "F2014": 3824884,
+      "F2015": 4645418,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 22,
+      "ARB_DESC_1": "مشروبات، سوائل كحولية وخل ",
+      "ENG_DESC_1": "Beverages, spirits and vinegar",
+      "F2010": 224204,
+      "F2011": 50724,
+      "F2012": 79547,
+      "F2013": 108618,
+      "F2014": 73166,
+      "F2015": 128912,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 23,
+      "ARB_DESC_1": "بقايا ونفايات صناعات الأغذية  أغذية محضرة للحيوانات ",
+      "ENG_DESC_1": "Residues and waste from the food industries; prepared animal fodder",
+      "F2010": 56400,
+      "F2011": 654,
+      "F2012": 47168,
+      "F2013": 1328,
+      "F2014": 128881,
+      "F2015": 6680,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 24,
+      "ARB_DESC_1": "تبغ وأبدال تبغ مصنعة ",
+      "ENG_DESC_1": "Tobacco and manufactured tobacco substitutes",
+      "F2010": 130,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 12225,
+      "F2015": 3400,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 25,
+      "ARB_DESC_1": "ملح ؛ كبريت ؛ أتربة  وأحجار ؛ جص ؛ كلس وأسمنت ",
+      "ENG_DESC_1": "Salt; sulphur; earths and stone; plastering materials, lime and cement",
+      "F2010": 4193824,
+      "F2011": 2744427,
+      "F2012": 4767635,
+      "F2013": 6943918,
+      "F2014": 4654781,
+      "F2015": 6417234,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 26,
+      "ARB_DESC_1": "خامات معادن ، خبث ورماد ",
+      "ENG_DESC_1": "Ores, slag and ash",
+      "F2010": 13535910,
+      "F2011": 11330879,
+      "F2012": 10139232,
+      "F2013": 8994826,
+      "F2014": 3152499,
+      "F2015": 1621337,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 27,
+      "ARB_DESC_1": "وقود معدني ، زيوت معدنية ومنتجات تقطيرها ؛ مواد قارية ؛ شموع معدنية",
+      "ENG_DESC_1": "Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",
+      "F2010": 18954517,
+      "F2011": 18267578,
+      "F2012": 10741547,
+      "F2013": 15078467,
+      "F2014": 19128919,
+      "F2015": 16072133,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 28,
+      "ARB_DESC_1": "منتجات كيماوية غير عضوية ؛ مركبات عضوية أو غير عضوية من معادن ثمينة أو من معادن أتربه نادرة أو من عناصر مشعة أو من نظائر ايزوتوب ",
+      "ENG_DESC_1": "Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals,of radioactive elements or of isotopes",
+      "F2010": 9432066,
+      "F2011": 8399386,
+      "F2012": 8457504,
+      "F2013": 8759337,
+      "F2014": 8571140,
+      "F2015": 6172483,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 29,
+      "ARB_DESC_1": "منتجات كيماوية عضوية",
+      "ENG_DESC_1": "Organic chemicals",
+      "F2010": 3573529,
+      "F2011": 1064163,
+      "F2012": 1347156,
+      "F2013": 1999129,
+      "F2014": 3196377,
+      "F2015": 1427860,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 30,
+      "ARB_DESC_1": "منتجات الصيدلية ",
+      "ENG_DESC_1": "Pharmaceutical products",
+      "F2010": 3118,
+      "F2011": 22972,
+      "F2012": 21388,
+      "F2013": 973863,
+      "F2014": 145126,
+      "F2015": 115586,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 31,
+      "ARB_DESC_1": " اسمدة",
+      "ENG_DESC_1": "Fertilisers",
+      "F2010": 4235,
+      "F2011": 0,
+      "F2012": 30059,
+      "F2013": 28392,
+      "F2014": 8892,
+      "F2015": 300,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 32,
+      "ARB_DESC_1": "خلاصات للدباغة والصباغة ؛ مواد دابغة ومشتقاتها أصباغ ، ألوان سطحية (بيجمنت) ومواد ملونة أخر ؛ دهانات وورنيش ؛ معاجين ؛ حبر",
+      "ENG_DESC_1": "Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints and varnishes; putty and other mastics; inks ",
+      "F2010": 1393176,
+      "F2011": 1193517,
+      "F2012": 1359480,
+      "F2013": 1162666,
+      "F2014": 1161494,
+      "F2015": 1644033,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 33,
+      "ARB_DESC_1": "زيوت عطرية ومستخلصات مواد راتنجية (رزينويد) ؛ محضرات عطور أو تطرية (كوزماتيك) أو تجميل (تواليت)",
+      "ENG_DESC_1": "Essential oils and resinoids; perfumery, cosmetic or toilet preparations",
+      "F2010": 1867306,
+      "F2011": 2317204,
+      "F2012": 1621320,
+      "F2013": 1751173,
+      "F2014": 2710722,
+      "F2015": 4604897,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 34,
+      "ARB_DESC_1": " صابون، وعوامل سطح عضوية (غواسل عضوية)  ومحضرات غسيل ومحضرات تشحيم وشموع اصطناعية  وشموع محضرة ومحضرات صقل أو تلميع وشموع إضاءة وأصناف مماثلة  ومعاجين لصنع النماذج وشموع طب الأسنان ومحضرات طب الأسنان أساسها الجص",
+      "ENG_DESC_1": "Soap, organic surface-active agents, washing preparations,lubricating preparations, artificial waxes, prepared waxes polishing or scouring preparations, candles and similar articles, modelling pastes, \" dental waxes, and dental preparations with a basis o",
+      "F2010": 2181447,
+      "F2011": 2616304,
+      "F2012": 3705092,
+      "F2013": 3232416,
+      "F2014": 4566916,
+      "F2015": 3253963,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 35,
+      "ARB_DESC_1": "مواد زلالية ؛ منتجات أساسها النشا المعدل ؛ غراء ؛ انزيمات ",
+      "ENG_DESC_1": "Albumlnoidal substances; modified starches; glues; enzymes",
+      "F2010": 6273,
+      "F2011": 622,
+      "F2012": 2811,
+      "F2013": 27869,
+      "F2014": 8480,
+      "F2015": 675,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 36,
+      "ARB_DESC_1": "   بارود ومتفجرات؛ منتجات نارية فنية؛ ثقاب؛ خلائط معدنية لإحداث الاشتعال؛ مواد لهوب، محضرة",
+      "ENG_DESC_1": "Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations",
+      "F2010": 0,
+      "F2011": 225,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 37,
+      "ARB_DESC_1": "منتجات تصوير فوتوغرافي أو سينمائي",
+      "ENG_DESC_1": "Photographic or cinematographic goods",
+      "F2010": 1771,
+      "F2011": 0,
+      "F2012": 17406,
+      "F2013": 0,
+      "F2014": 24283,
+      "F2015": 760,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 38,
+      "ARB_DESC_1": "منتجــــــات كيماويــــــــة منوعـــــــة",
+      "ENG_DESC_1": "Miscellaneous chemical products",
+      "F2010": 1713284,
+      "F2011": 430874,
+      "F2012": 615590,
+      "F2013": 1243096,
+      "F2014": 2627865,
+      "F2015": 795946,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 39,
+      "ARB_DESC_1": " لدائـــــــــــــــــن ومصنوعاتهــــــــــــــــــــا",
+      "ENG_DESC_1": "Plastics and articles thereof",
+      "F2010": 37225836,
+      "F2011": 34459584,
+      "F2012": 27947894,
+      "F2013": 23600990,
+      "F2014": 33831958,
+      "F2015": 28537227,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 40,
+      "ARB_DESC_1": "مطـاط ومصنوعـاته ",
+      "ENG_DESC_1": "Rubber and articles thereof",
+      "F2010": 25104,
+      "F2011": 7137,
+      "F2012": 1053,
+      "F2013": 103,
+      "F2014": 162140,
+      "F2015": 250878,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 41,
+      "ARB_DESC_1": "صلال وجلود خام (عدا جلود الفراء) وجلود مدبوغة",
+      "ENG_DESC_1": "Raw hides and skins (other than furskins) and leather",
+      "F2010": 7740,
+      "F2011": 3650,
+      "F2012": 25114,
+      "F2013": 214500,
+      "F2014": 243600,
+      "F2015": 301200,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 42,
+      "ARB_DESC_1": "مصنوعات من جلد ؛ أصناف عدة الحيوانات والسراجة ؛ لوازم السفر ؛ حقائب يدوية وأوعية مماثلة لها ؛ مصنوعات من مصارين الحيوانات (عدا مصارين دودة القز) ",
+      "ENG_DESC_1": "Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",
+      "F2010": 50,
+      "F2011": 0,
+      "F2012": 810,
+      "F2013": 0,
+      "F2014": 630,
+      "F2015": 360,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 43,
+      "ARB_DESC_1": "جلود بفراء طبيعية ، وفراء مقلدة (اصطناعية) ؛ مصنوعاتها ",
+      "ENG_DESC_1": "Furskins and artificial fur; manufactures thereof",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 6810,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 44,
+      "ARB_DESC_1": "خشب ومصنوعاته ؛ فحم خشبي   ",
+      "ENG_DESC_1": "Wood and articles of wood; wood charcoal",
+      "F2010": 29587,
+      "F2011": 56514,
+      "F2012": 237151,
+      "F2013": 117488,
+      "F2014": 426580,
+      "F2015": 292182,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 45,
+      "ARB_DESC_1": "فليــن ومصنوعــاتـه ",
+      "ENG_DESC_1": "Cork and articles of cork",
+      "F2010": 1914,
+      "F2011": 3562,
+      "F2012": 28301,
+      "F2013": 7708,
+      "F2014": 1870,
+      "F2015": 13592,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 46,
+      "ARB_DESC_1": "مصنوعات من القش أو الحلفا أو غيرها من مواد الضفر ؛ أصناف صناعتي الحصر والسلال ",
+      "ENG_DESC_1": "Msnufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork",
+      "F2010": 80223,
+      "F2011": 463419,
+      "F2012": 523042,
+      "F2013": 306731,
+      "F2014": 6812,
+      "F2015": 4099,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 47,
+      "ARB_DESC_1": "عجائن من خشب أو مواد ليفية سليلوزية أخر ؛ ورق و ورق مقوى (نفايا وفضلات ) بغرض إعادة التصنيع ",
+      "ENG_DESC_1": "Pulp of wood or of other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard",
+      "F2010": 540575,
+      "F2011": 124640,
+      "F2012": 353234,
+      "F2013": 628606,
+      "F2014": 554107,
+      "F2015": 499131,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 48,
+      "ARB_DESC_1": "ورق وورق مقوى (كرتون) ؛ مصنوعات من عجينة السيليلوز أو من ورق أو من ورق مقوى ",
+      "ENG_DESC_1": "Paper and paperboard; articles of paper pulp, of paper or of paperboard",
+      "F2010": 3435765,
+      "F2011": 5573585,
+      "F2012": 4537220,
+      "F2013": 4183334,
+      "F2014": 5628853,
+      "F2015": 5065657,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 49,
+      "ARB_DESC_1": "كتب ، صحف ، صور وغيرها من منتجات الطباعة والنشر ؛ مخطوطاتن يدوية ، مستنسخات وتصاميم ",
+      "ENG_DESC_1": "Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",
+      "F2010": 30243,
+      "F2011": 1140428,
+      "F2012": 1365737,
+      "F2013": 106204,
+      "F2014": 34863,
+      "F2015": 10798,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 50,
+      "ARB_DESC_1": "حرير طبيعي",
+      "ENG_DESC_1": "silk",
+      "F2010": 0,
+      "F2011": 18970,
+      "F2012": 335,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 51,
+      "ARB_DESC_1": "صوف ، وبر حيوان ناعم أو خشن ، خيوط وأقمشة منسوجة من شعر الخيل ",
+      "ENG_DESC_1": "Wool , fine or coarse animal hair; horsehair yarn and woven fabric",
+      "F2010": 0,
+      "F2011": 3511,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 16260,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 52,
+      "ARB_DESC_1": "قطن",
+      "ENG_DESC_1": "Cotton",
+      "F2010": 483944,
+      "F2011": 291346,
+      "F2012": 161812,
+      "F2013": 199180,
+      "F2014": 377920,
+      "F2015": 29614,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 54,
+      "ARB_DESC_1": "شعيـرات تـركيبيـة أو أصطنـاعيـة؛ قدد و أشكال مماثلة من مواد نسجية تركيبية أو اصطناعية",
+      "ENG_DESC_1": "Man-made filaments; strip and the like of man-made textile materials",
+      "F2010": 1681,
+      "F2011": 96964,
+      "F2012": 395767,
+      "F2013": 487784,
+      "F2014": 812290,
+      "F2015": 369086,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 55,
+      "ARB_DESC_1": "أليـاف تركيبيـة أو أصطنــاعيـة غير مستمرة ",
+      "ENG_DESC_1": "Man-made staple fibres",
+      "F2010": 347651,
+      "F2011": 564389,
+      "F2012": 411349,
+      "F2013": 268363,
+      "F2014": 578609,
+      "F2015": 269660,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 56,
+      "ARB_DESC_1": "حشـو ، لبـاد ولا منسـوجات ؛ خيوط خـاصة ؛ خيوط حزم وحبـال وأمراس وأصناف مصنوعة منها ",
+      "ENG_DESC_1": "Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof",
+      "F2010": 34787,
+      "F2011": 112231,
+      "F2012": 6230,
+      "F2013": 3337,
+      "F2014": 5,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 57,
+      "ARB_DESC_1": "سجــاد وأغطيـة أرضيـات أخــر مـن مـواد نسجـية ",
+      "ENG_DESC_1": "Carpets and other textile floor coverings",
+      "F2010": 60,
+      "F2011": 0,
+      "F2012": 1350,
+      "F2013": 176,
+      "F2014": 12476,
+      "F2015": 3632,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 58,
+      "ARB_DESC_1": "أقمشة منسوجة خاصة ؛ أقمشة ذات خمل \"أوبار\" من مواد نسجية ؛ مسننات (دانتيلا) ؛ ديابيج ؛ أصناف عقادة ؛ مطرزات ",
+      "ENG_DESC_1": "Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery",
+      "F2010": 2992,
+      "F2011": 31549,
+      "F2012": 33,
+      "F2013": 4964,
+      "F2014": 121956,
+      "F2015": 3316,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 59,
+      "ARB_DESC_1": "نسج مشربة أو مطلية أو مغطاه أو منضدة ؛ أصناف نسجية للأستخدام التقني أو الصناعي ",
+      "ENG_DESC_1": "Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",
+      "F2010": 51114,
+      "F2011": 0,
+      "F2012": 4450,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 60,
+      "ARB_DESC_1": "أقمشة مصنـرة أو كـروشـية",
+      "ENG_DESC_1": "Knitted or crocheted fabrics",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 100,
+      "F2014": 31231,
+      "F2015": 1389,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 61,
+      "ARB_DESC_1": "ألبسة وتوابع ألبسة من مصنرات أو كروشية ",
+      "ENG_DESC_1": "Articles of apparel and clothing accessories, knitted or crocheted",
+      "F2010": 1070,
+      "F2011": 1029,
+      "F2012": 10172,
+      "F2013": 106601,
+      "F2014": 21948,
+      "F2015": 28796,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 62,
+      "ARB_DESC_1": "ألبسة وتوابع ألبسة ، من غير المصنرات أو الكروشية",
+      "ENG_DESC_1": "Articles of apparel and clothing accessories, not knitted or crocheted",
+      "F2010": 2138,
+      "F2011": 495,
+      "F2012": 1460,
+      "F2013": 1602,
+      "F2014": 27834,
+      "F2015": 31745,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 63,
+      "ARB_DESC_1": "أصناف أخر جاهزة من مواد نسجية ؛ مجموعات (أطقم ) ؛ ألبسة مستعملة وأصناف نسجية مستعملة ؛ أسمال وخرق",
+      "ENG_DESC_1": "Other made up textile articles; sets; worn clothing and worn textile articles; rags",
+      "F2010": 1375,
+      "F2011": 3010,
+      "F2012": 504777,
+      "F2013": 692006,
+      "F2014": 1570022,
+      "F2015": 1246219,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 64,
+      "ARB_DESC_1": "أحذية وطماقات وما يماثلها ؛ أجزاء هذه الأصناف ",
+      "ENG_DESC_1": "Footwear, gaiters and the like; parts of such articles",
+      "F2010": 26445,
+      "F2011": 8099,
+      "F2012": 19653,
+      "F2013": 80307,
+      "F2014": 59807,
+      "F2015": 41786,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 65,
+      "ARB_DESC_1": "أغطيــة رأس وأجزاؤهــا",
+      "ENG_DESC_1": "Headgear and parts thereof",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 200,
+      "F2013": 0,
+      "F2014": 70,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 66,
+      "ARB_DESC_1": "مظلات مطر ، مظلات شمس ، عصي ، عصي بقاعدة ، سياط ، وسياط الفروسية ، وأجزاء هذه الأصناف ",
+      "ENG_DESC_1": "Umbrellas, sun umbrellas, walking-sticks, seat-sticks, whips, riding-crops and parts thereof",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 550,
+      "F2013": 200,
+      "F2014": 0,
+      "F2015": 20,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 67,
+      "ARB_DESC_1": "ريش وزغب محضران وأصناف مصنوعة منها ؛ أزهار أصطناعية ؛ أصناف من شعر بشري ",
+      "ENG_DESC_1": "Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair",
+      "F2010": 5373,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 68,
+      "ARB_DESC_1": "مصنوعات من حجر أو جص أو إسمنت أو حرير صخري (اسبستوس) أو ميكا أو من مواد مماثلة ",
+      "ENG_DESC_1": "Articles of stone, plaster, cement, asbestos, mica or similar materials",
+      "F2010": 4542916,
+      "F2011": 2637903,
+      "F2012": 6492616,
+      "F2013": 10740839,
+      "F2014": 8280958,
+      "F2015": 7814549,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 69,
+      "ARB_DESC_1": "منتجــات مــن خـــزف ",
+      "ENG_DESC_1": "Ceramic products",
+      "F2010": 2966156,
+      "F2011": 2603874,
+      "F2012": 3719284,
+      "F2013": 4173541,
+      "F2014": 12025637,
+      "F2015": 7150370,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 70,
+      "ARB_DESC_1": "زجـــــاج ومصنوعـــاته ",
+      "ENG_DESC_1": "Glass and glassware",
+      "F2010": 3153881,
+      "F2011": 4630648,
+      "F2012": 2428361,
+      "F2013": 2175939,
+      "F2014": 2498643,
+      "F2015": 3636896,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 71,
+      "ARB_DESC_1": "لؤلؤ طبيعي أو مستنبت ، أحجار كريمة أوشبه كريمة ، معادن ثمينة ، معادن عادية مكسوة بقشرة من معادن ثمينة ، مصنوعات من هذه المواد ؛ حلي الغواية (مقلدة ) ؛ نقود",
+      "ENG_DESC_1": " Natural or cultured pearls, precious or semi-precious stones precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",
+      "F2010": 14706984,
+      "F2011": 2365355,
+      "F2012": 3309874,
+      "F2013": 4636091,
+      "F2014": 3111270,
+      "F2015": 2543595,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 72,
+      "ARB_DESC_1": "الحديد والصلب (فولاذ) ",
+      "ENG_DESC_1": "Iron and steel",
+      "F2010": 11675610,
+      "F2011": 21330854,
+      "F2012": 28411288,
+      "F2013": 31504331,
+      "F2014": 43647370,
+      "F2015": 53645692,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 73,
+      "ARB_DESC_1": "مصنوعات من حديد أو صب (فولاذ) ",
+      "ENG_DESC_1": "Articles of iron or steel",
+      "F2010": 14981162,
+      "F2011": 21619395,
+      "F2012": 36803314,
+      "F2013": 28883646,
+      "F2014": 78900113,
+      "F2015": 34474609,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 74,
+      "ARB_DESC_1": "نحـــاس ومصنـــوعــاتـــه ",
+      "ENG_DESC_1": "Copper and articles thereof",
+      "F2010": 6646741,
+      "F2011": 2999037,
+      "F2012": 1437685,
+      "F2013": 1078524,
+      "F2014": 1202336,
+      "F2015": 923901,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 75,
+      "ARB_DESC_1": "نيكــــــل ومصنوعاتــــــــــــه ",
+      "ENG_DESC_1": "Nickel and articles thereof",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 450,
+      "F2013": 0,
+      "F2014": 34596,
+      "F2015": 14134,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 76,
+      "ARB_DESC_1": "ألومنيـــــــــوم ومصنوعاتــــــــــــه ",
+      "ENG_DESC_1": "Aluminium and articles thereof",
+      "F2010": 10938681,
+      "F2011": 13070437,
+      "F2012": 10113548,
+      "F2013": 9505807,
+      "F2014": 37921294,
+      "F2015": 54709426,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 78,
+      "ARB_DESC_1": "رصـــاص ومصنوعاتــة",
+      "ENG_DESC_1": "Lead and articles thereof",
+      "F2010": 2401,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 14882,
+      "F2015": 61386,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 79,
+      "ARB_DESC_1": "زنك ( توتياء ) ومصنوعاته",
+      "ENG_DESC_1": "Zinc and articles thereof",
+      "F2010": 133251,
+      "F2011": 46203,
+      "F2012": 41112,
+      "F2013": 0,
+      "F2014": 29808,
+      "F2015": 92,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 80,
+      "ARB_DESC_1": "قصــديــر ومصنوعــاتــــة ",
+      "ENG_DESC_1": "Tin and articles thereof",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 1152,
+      "F2013": 0,
+      "F2014": 4056,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 81,
+      "ARB_DESC_1": "معادن عادية أخر ؛ خلائط خزفية معدنية (سيرميت) ؛ مصنوعاتها",
+      "ENG_DESC_1": "Other base metals; cermets; articles thereof",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 4304,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 82,
+      "ARB_DESC_1": "عدد وأدوات سكاكين وملاعق وشوك ، من معادن عادية ؛ أجزاؤها من معادن عادية ",
+      "ENG_DESC_1": "Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 11425,
+      "F2013": 30297,
+      "F2014": 6779,
+      "F2015": 3032,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 83,
+      "ARB_DESC_1": "أصناف متنوعة من معادن عادية",
+      "ENG_DESC_1": "Miscellaneous articles of base metal",
+      "F2010": 8387,
+      "F2011": 3873,
+      "F2012": 2461,
+      "F2013": 17525,
+      "F2014": 52643,
+      "F2015": 6457,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 84,
+      "ARB_DESC_1": "مفاعلات نووية ومراجل وآلات وأجهزة وأدوات آلية ؛ أجزاؤها ",
+      "ENG_DESC_1": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+      "F2010": 619460,
+      "F2011": 134752,
+      "F2012": 103719,
+      "F2013": 61838,
+      "F2014": 31337,
+      "F2015": 78327,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 85,
+      "ARB_DESC_1": "آلات وأجهزة ومعدات كهربائية وأجزاؤها ؛ أجهزة تسجيل وإذاعة الصوت ، وأجهزة تسجيل وإذاعة الصوت والصورة في الإذاعة المرئية ( تلفزيون) وأجزاء ولوازم هذه الأجهزة ",
+      "ENG_DESC_1": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",
+      "F2010": 34912031,
+      "F2011": 41191027,
+      "F2012": 29165105,
+      "F2013": 37310600,
+      "F2014": 41240745,
+      "F2015": 56118466,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 86,
+      "ARB_DESC_1": "قاطرات وعربات ومعدات للسكك الحديدية أو ما يماثلها وأجزاؤها مثبتات ولوازم خطوط السكك الحديدية وأجزاؤها؛ أجهزة إشارة آلية (بما فيها كهروآليه) لطرق الموصلات من جميع الأنواع",
+      "ENG_DESC_1": "Railway or tramway locomotives, rolling-stock and parts thereof; rallway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 963,
+      "F2013": 15692,
+      "F2014": 4005,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 89,
+      "ARB_DESC_1": "سفن وقوارب ومنشآت عائمة ",
+      "ENG_DESC_1": "Ships, boats and floating structures",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 2272,
+      "F2014": 1550,
+      "F2015": 7179,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 90,
+      "ARB_DESC_1": "أدوات وأجهزة للبصريات أو للتصوير الفوتوغرافي أو السينمائي أو للقياس أو للفحص والضبط الدقيق ، أدوات وأجهزة للطب أو الجراحة ؛ أجزاء ولوازم هذه الأدوات والأجهزة ",
+      "ENG_DESC_1": "Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof",
+      "F2010": 0,
+      "F2011": 86,
+      "F2012": 0,
+      "F2013": 4736,
+      "F2014": 69717,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 92,
+      "ARB_DESC_1": "أدوات موسيقية ؛ أجزاؤها ولوازمها",
+      "ENG_DESC_1": "Musical instruments; parts and accessories of such articles",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 65,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 94,
+      "ARB_DESC_1": "أثاث ؛ أصناف أسرة (حشايا ، حوامل حشايا ، وسائد وأصناف محشوة مماثلة ) ؛ أجهزة إنارة غير مذكورة ولا داخلة في مكان آخر ؛ إشارات مضيئة ولوحات إعلانية أو إرشادية مضيئة وأصناف مماثلة ؛ مباني مسبقة الصنع ",
+      "ENG_DESC_1": "Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and Iighting fittings, not elsewhere specified or included;illuminated signs, illuminated name-plates and the like; prefabricated buildings",
+      "F2010": 3024744,
+      "F2011": 4558582,
+      "F2012": 4810193,
+      "F2013": 4362453,
+      "F2014": 5975750,
+      "F2015": 6526236,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 95,
+      "ARB_DESC_1": "لعب اطفال وأصناف للتسلية أو للرياضة ، اجزاؤها ولوازمها ",
+      "ENG_DESC_1": "Toys, games and sports requisites; parts and accessories thereof",
+      "F2010": 0,
+      "F2011": 450,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 13162,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 96,
+      "ARB_DESC_1": "مصنوعــات متنوعــة ",
+      "ENG_DESC_1": "Miscellanous manufactured articles",
+      "F2010": 82533,
+      "F2011": 150905,
+      "F2012": 827417,
+      "F2013": 829248,
+      "F2014": 296584,
+      "F2015": 177735,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 97,
+      "ARB_DESC_1": "تحف فنية ، قطع للمجموعات وقطع أثرية ",
+      "ENG_DESC_1": "Works of art, collectors' pieces and antiques",
+      "F2010": 500,
+      "F2011": 2535,
+      "F2012": 0,
+      "F2013": 200,
+      "F2014": 21943,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "الوجاجه ",
+      "Code": 13,
+      "HS_CHAP": 98,
+      "ARB_DESC_1": "سلع ذات إحكام خاصة",
+      "ENG_DESC_1": "Commodities Subject to Special Provisions",
+      "F2010": 20213,
+      "F2011": 8800,
+      "F2012": 35984,
+      "F2013": 48616,
+      "F2014": 36108,
+      "F2015": 39006,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": 43,
+      "ENG_DESC": "AL.BURAIMI ",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 1,
+      "ARB_DESC_1": "حيوانات حية",
+      "ENG_DESC_1": "Live animals",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 1178100,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 3,
+      "ARB_DESC_1": "أسمـاك وقشـريـات ، رخويــات وغيرهـا مـن الـلافقريــات المـائـية",
+      "ENG_DESC_1": "Fish and crustaceans, molluscs and other aquatic invertebrates",
+      "F2010": 88734,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 8,
+      "ARB_DESC_1": "فواكه وأثمار صالحة للأكل ؛ قشور حمضيات وقشور بطيخ أو شمام ",
+      "ENG_DESC_1": "Edible fruit and nuts; peel of citrus fruit or melons",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 2972,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 13,
+      "ARB_DESC_1": "صمغ اللك ؛ صموغ وراتنجات وغيرها من عصارات وخلاصات نباتية ",
+      "ENG_DESC_1": "Lac; gums, resins and other vegetable saps and extracts",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 200,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 14,
+      "ARB_DESC_1": "مواد ضفر نباتية ؛ منتجات أخر من أصل نباتي غير مذكور ولا داخلة في مكان آخر ",
+      "ENG_DESC_1": "Vegetable plaiting materials; vegetable products not elsewhere specified or included",
+      "F2010": 0,
+      "F2011": 225,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 15,
+      "ARB_DESC_1": "شحوم ودهون وزيوت حيوانية أو نباتية ومنتجات تفككها ؛ دهون غذائية محضرة ؛  شموع من أصل حيوان أو نباتي ",
+      "ENG_DESC_1": "Animal or vegetable fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes",
+      "F2010": 14598,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 16,
+      "ARB_DESC_1": "محضرات لحوم وأسماك أو قشريات أو رخويات أو لافقريات مائية أخر ",
+      "ENG_DESC_1": "Preparations of meat, of fish or of crustaceans, molluscs or other aquatic invertebrates",
+      "F2010": 11940,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 17,
+      "ARB_DESC_1": "سكر ومصنوعات سكرية ",
+      "ENG_DESC_1": "Sugars and sugar confectionery",
+      "F2010": 0,
+      "F2011": 16451,
+      "F2012": 29019,
+      "F2013": 94356,
+      "F2014": 109416,
+      "F2015": 120939,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 19,
+      "ARB_DESC_1": "محضرات أساسها الحبوب أو الدقيق أو النشا أو الحليب ؛ فطائر",
+      "ENG_DESC_1": "Preparations of cereals, flour, starch or milk; pastrycooks' products",
+      "F2010": 51453,
+      "F2011": 266957,
+      "F2012": 139819,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 22,
+      "ARB_DESC_1": "مشروبات، سوائل كحولية وخل ",
+      "ENG_DESC_1": "Beverages, spirits and vinegar",
+      "F2010": 747540,
+      "F2011": 1489027,
+      "F2012": 642445,
+      "F2013": 738379,
+      "F2014": 752417,
+      "F2015": 661964,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 24,
+      "ARB_DESC_1": "تبغ وأبدال تبغ مصنعة ",
+      "ENG_DESC_1": "Tobacco and manufactured tobacco substitutes",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 1400,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 25,
+      "ARB_DESC_1": "ملح ؛ كبريت ؛ أتربة  وأحجار ؛ جص ؛ كلس وأسمنت ",
+      "ENG_DESC_1": "Salt; sulphur; earths and stone; plastering materials, lime and cement",
+      "F2010": 2923301,
+      "F2011": 6456,
+      "F2012": 0,
+      "F2013": 276,
+      "F2014": 0,
+      "F2015": 105,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 26,
+      "ARB_DESC_1": "خامات معادن ، خبث ورماد ",
+      "ENG_DESC_1": "Ores, slag and ash",
+      "F2010": 0,
+      "F2011": 1042,
+      "F2012": 12600,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 27,
+      "ARB_DESC_1": "وقود معدني ، زيوت معدنية ومنتجات تقطيرها ؛ مواد قارية ؛ شموع معدنية",
+      "ENG_DESC_1": "Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",
+      "F2010": 53072,
+      "F2011": 6772,
+      "F2012": 214576,
+      "F2013": 611,
+      "F2014": 12378,
+      "F2015": 250681,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 28,
+      "ARB_DESC_1": "منتجات كيماوية غير عضوية ؛ مركبات عضوية أو غير عضوية من معادن ثمينة أو من معادن أتربه نادرة أو من عناصر مشعة أو من نظائر ايزوتوب ",
+      "ENG_DESC_1": "Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals,of radioactive elements or of isotopes",
+      "F2010": 60778,
+      "F2011": 872,
+      "F2012": 49730,
+      "F2013": 91490,
+      "F2014": 335679,
+      "F2015": 568183,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 29,
+      "ARB_DESC_1": "منتجات كيماوية عضوية",
+      "ENG_DESC_1": "Organic chemicals",
+      "F2010": 3520620,
+      "F2011": 1005564,
+      "F2012": 410461,
+      "F2013": 69044,
+      "F2014": 90014,
+      "F2015": 18211,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 30,
+      "ARB_DESC_1": "منتجات الصيدلية ",
+      "ENG_DESC_1": "Pharmaceutical products",
+      "F2010": 2596765,
+      "F2011": 3566911,
+      "F2012": 5372961,
+      "F2013": 2552844,
+      "F2014": 3084885,
+      "F2015": 2621535,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 31,
+      "ARB_DESC_1": " اسمدة",
+      "ENG_DESC_1": "Fertilisers",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 14953,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 32,
+      "ARB_DESC_1": "خلاصات للدباغة والصباغة ؛ مواد دابغة ومشتقاتها أصباغ ، ألوان سطحية (بيجمنت) ومواد ملونة أخر ؛ دهانات وورنيش ؛ معاجين ؛ حبر",
+      "ENG_DESC_1": "Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints and varnishes; putty and other mastics; inks ",
+      "F2010": 30579,
+      "F2011": 31919,
+      "F2012": 66,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 103038,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 33,
+      "ARB_DESC_1": "زيوت عطرية ومستخلصات مواد راتنجية (رزينويد) ؛ محضرات عطور أو تطرية (كوزماتيك) أو تجميل (تواليت)",
+      "ENG_DESC_1": "Essential oils and resinoids; perfumery, cosmetic or toilet preparations",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 657,
+      "F2013": 900,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 34,
+      "ARB_DESC_1": " صابون، وعوامل سطح عضوية (غواسل عضوية)  ومحضرات غسيل ومحضرات تشحيم وشموع اصطناعية  وشموع محضرة ومحضرات صقل أو تلميع وشموع إضاءة وأصناف مماثلة  ومعاجين لصنع النماذج وشموع طب الأسنان ومحضرات طب الأسنان أساسها الجص",
+      "ENG_DESC_1": "Soap, organic surface-active agents, washing preparations,lubricating preparations, artificial waxes, prepared waxes polishing or scouring preparations, candles and similar articles, modelling pastes, \" dental waxes, and dental preparations with a basis o",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 387,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 38,
+      "ARB_DESC_1": "منتجــــــات كيماويــــــــة منوعـــــــة",
+      "ENG_DESC_1": "Miscellaneous chemical products",
+      "F2010": 0,
+      "F2011": 250,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 39,
+      "ARB_DESC_1": " لدائـــــــــــــــــن ومصنوعاتهــــــــــــــــــــا",
+      "ENG_DESC_1": "Plastics and articles thereof",
+      "F2010": 513506,
+      "F2011": 719787,
+      "F2012": 514129,
+      "F2013": 709968,
+      "F2014": 1007411,
+      "F2015": 854671,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 40,
+      "ARB_DESC_1": "مطـاط ومصنوعـاته ",
+      "ENG_DESC_1": "Rubber and articles thereof",
+      "F2010": 0,
+      "F2011": 4975,
+      "F2012": 3010,
+      "F2013": 0,
+      "F2014": 60,
+      "F2015": 9025,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 44,
+      "ARB_DESC_1": "خشب ومصنوعاته ؛ فحم خشبي   ",
+      "ENG_DESC_1": "Wood and articles of wood; wood charcoal",
+      "F2010": 0,
+      "F2011": 24170,
+      "F2012": 20383,
+      "F2013": 1080,
+      "F2014": 4875,
+      "F2015": 200,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 48,
+      "ARB_DESC_1": "ورق وورق مقوى (كرتون) ؛ مصنوعات من عجينة السيليلوز أو من ورق أو من ورق مقوى ",
+      "ENG_DESC_1": "Paper and paperboard; articles of paper pulp, of paper or of paperboard",
+      "F2010": 862782,
+      "F2011": 1657398,
+      "F2012": 1644081,
+      "F2013": 1732097,
+      "F2014": 1545554,
+      "F2015": 1358009,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 49,
+      "ARB_DESC_1": "كتب ، صحف ، صور وغيرها من منتجات الطباعة والنشر ؛ مخطوطاتن يدوية ، مستنسخات وتصاميم ",
+      "ENG_DESC_1": "Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 1789,
+      "F2013": 3131,
+      "F2014": 2417,
+      "F2015": 2790,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 55,
+      "ARB_DESC_1": "أليـاف تركيبيـة أو أصطنــاعيـة غير مستمرة ",
+      "ENG_DESC_1": "Man-made staple fibres",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 450,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 59,
+      "ARB_DESC_1": "نسج مشربة أو مطلية أو مغطاه أو منضدة ؛ أصناف نسجية للأستخدام التقني أو الصناعي ",
+      "ENG_DESC_1": "Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use",
+      "F2010": 0,
+      "F2011": 2565,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 61,
+      "ARB_DESC_1": "ألبسة وتوابع ألبسة من مصنرات أو كروشية ",
+      "ENG_DESC_1": "Articles of apparel and clothing accessories, knitted or crocheted",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 228,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 63,
+      "ARB_DESC_1": "أصناف أخر جاهزة من مواد نسجية ؛ مجموعات (أطقم ) ؛ ألبسة مستعملة وأصناف نسجية مستعملة ؛ أسمال وخرق",
+      "ENG_DESC_1": "Other made up textile articles; sets; worn clothing and worn textile articles; rags",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 35097,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 55,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 66,
+      "ARB_DESC_1": "مظلات مطر ، مظلات شمس ، عصي ، عصي بقاعدة ، سياط ، وسياط الفروسية ، وأجزاء هذه الأصناف ",
+      "ENG_DESC_1": "Umbrellas, sun umbrellas, walking-sticks, seat-sticks, whips, riding-crops and parts thereof",
+      "F2010": 1150,
+      "F2011": 7420,
+      "F2012": 2800,
+      "F2013": 0,
+      "F2014": 500,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 68,
+      "ARB_DESC_1": "مصنوعات من حجر أو جص أو إسمنت أو حرير صخري (اسبستوس) أو ميكا أو من مواد مماثلة ",
+      "ENG_DESC_1": "Articles of stone, plaster, cement, asbestos, mica or similar materials",
+      "F2010": 1308307,
+      "F2011": 1331894,
+      "F2012": 1448952,
+      "F2013": 3604179,
+      "F2014": 2790482,
+      "F2015": 1881815,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 69,
+      "ARB_DESC_1": "منتجــات مــن خـــزف ",
+      "ENG_DESC_1": "Ceramic products",
+      "F2010": 18833,
+      "F2011": 8035,
+      "F2012": 3084,
+      "F2013": 2265,
+      "F2014": 7886,
+      "F2015": 3151,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 70,
+      "ARB_DESC_1": "زجـــــاج ومصنوعـــاته ",
+      "ENG_DESC_1": "Glass and glassware",
+      "F2010": 20972,
+      "F2011": 480,
+      "F2012": 0,
+      "F2013": 299,
+      "F2014": 1470,
+      "F2015": 850,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 72,
+      "ARB_DESC_1": "الحديد والصلب (فولاذ) ",
+      "ENG_DESC_1": "Iron and steel",
+      "F2010": 3959679,
+      "F2011": 118250,
+      "F2012": 1206009,
+      "F2013": 440775,
+      "F2014": 21922,
+      "F2015": 116473,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 73,
+      "ARB_DESC_1": "مصنوعات من حديد أو صب (فولاذ) ",
+      "ENG_DESC_1": "Articles of iron or steel",
+      "F2010": 133322,
+      "F2011": 302325,
+      "F2012": 26382,
+      "F2013": 1718380,
+      "F2014": 3331214,
+      "F2015": 8294615,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 74,
+      "ARB_DESC_1": "نحـــاس ومصنـــوعــاتـــه ",
+      "ENG_DESC_1": "Copper and articles thereof",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 9000,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 75,
+      "ARB_DESC_1": "نيكــــــل ومصنوعاتــــــــــــه ",
+      "ENG_DESC_1": "Nickel and articles thereof",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 197228,
+      "F2015": 200928,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 76,
+      "ARB_DESC_1": "ألومنيـــــــــوم ومصنوعاتــــــــــــه ",
+      "ENG_DESC_1": "Aluminium and articles thereof",
+      "F2010": 0,
+      "F2011": 2314,
+      "F2012": 2680,
+      "F2013": 31040,
+      "F2014": 91758,
+      "F2015": 46642,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 79,
+      "ARB_DESC_1": "زنك ( توتياء ) ومصنوعاته",
+      "ENG_DESC_1": "Zinc and articles thereof",
+      "F2010": 0,
+      "F2011": 0,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 108,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 84,
+      "ARB_DESC_1": "مفاعلات نووية ومراجل وآلات وأجهزة وأدوات آلية ؛ أجزاؤها ",
+      "ENG_DESC_1": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",
+      "F2010": 706765,
+      "F2011": 0,
+      "F2012": 288,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 1026,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 85,
+      "ARB_DESC_1": "آلات وأجهزة ومعدات كهربائية وأجزاؤها ؛ أجهزة تسجيل وإذاعة الصوت ، وأجهزة تسجيل وإذاعة الصوت والصورة في الإذاعة المرئية ( تلفزيون) وأجزاء ولوازم هذه الأجهزة ",
+      "ENG_DESC_1": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers,television image and sound recorders and reproducers, and parts and accessories of such articles",
+      "F2010": 150349,
+      "F2011": 798393,
+      "F2012": 137882,
+      "F2013": 21768,
+      "F2014": 16800,
+      "F2015": 2228673,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 86,
+      "ARB_DESC_1": "قاطرات وعربات ومعدات للسكك الحديدية أو ما يماثلها وأجزاؤها مثبتات ولوازم خطوط السكك الحديدية وأجزاؤها؛ أجهزة إشارة آلية (بما فيها كهروآليه) لطرق الموصلات من جميع الأنواع",
+      "ENG_DESC_1": "Railway or tramway locomotives, rolling-stock and parts thereof; rallway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",
+      "F2010": 0,
+      "F2011": 4716,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 94,
+      "ARB_DESC_1": "أثاث ؛ أصناف أسرة (حشايا ، حوامل حشايا ، وسائد وأصناف محشوة مماثلة ) ؛ أجهزة إنارة غير مذكورة ولا داخلة في مكان آخر ؛ إشارات مضيئة ولوحات إعلانية أو إرشادية مضيئة وأصناف مماثلة ؛ مباني مسبقة الصنع ",
+      "ENG_DESC_1": "Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and Iighting fittings, not elsewhere specified or included;illuminated signs, illuminated name-plates and the like; prefabricated buildings",
+      "F2010": 2475,
+      "F2011": 97985,
+      "F2012": 166123,
+      "F2013": 86500,
+      "F2014": 120301,
+      "F2015": 110540,
+      "F2016": 0
+    },
+    "geometry": null
+  }, {
+    "type": "Feature",
+    "properties": {
+      "POE_CODE": null,
+      "ENG_DESC": "",
+      "ARB_DESC": "البريمي         ",
+      "Code": 11,
+      "HS_CHAP": 98,
+      "ARB_DESC_1": "سلع ذات إحكام خاصة",
+      "ENG_DESC_1": "Commodities Subject to Special Provisions",
+      "F2010": 0,
+      "F2011": 650,
+      "F2012": 0,
+      "F2013": 0,
+      "F2014": 0,
+      "F2015": 0,
+      "F2016": 0
+    },
+    "geometry": null
+  }]
+}
